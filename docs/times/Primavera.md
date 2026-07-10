@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="primavera" src="https://github.com/user-attachments/assets/21cabb52-8fb8-45cc-bfad-b7e78c224573" />
+
 Primavera F.C
 
 Nasce uma flor. Um novo time de futebol surge no coração curitibano.
