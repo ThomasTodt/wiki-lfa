@@ -8,3 +8,11 @@ O Delas Futebol Clube nasceu em 2015 com a missão de promover o futebol para to
 Hoje, com uma identidade visual renovada e um projeto cada vez mais forte, seguimos firmes no propósito de ampliar o espaço das mulheres no esporte! 💪⚽
 
 💜 Futebol para todas!
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
+
+### Campanhas de Destaque
+* **Vice-campeão**:
+  * [Taça Sissi](../campeonatos/taca-sissi.md): 1 ([2025-A](../temporadas/2025/apertura.md))

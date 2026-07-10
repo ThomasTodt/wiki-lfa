@@ -9,3 +9,14 @@ Com um futebol envolvente e Marx sempre nos guiando para o gol adversário, cons
 Com o tempo o time cresceu e, embora suas raízes sejam geográficas, hoje contamos com vários atletas que compartilham dos mesmos ideais e visão crítica da sociedade.
 
 Ame o futebol. Odeie o fascismo.
+
+## Títulos
+
+### Campeão
+* [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+* [Taça Wladimir Rodrigues](../campeonatos/taca-wladimir-rodrigues.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+
+### Campanhas de Destaque
+* **Vice-campeão**:
+  * [Recopa](../campeonatos/recopa.md): 1 ([2026-A](../temporadas/2026/apertura.md))
+  * [Supertaça](../campeonatos/supertaca.md): 1 ([2026-A](../temporadas/2026/apertura.md))

@@ -9,33 +9,33 @@ Paz entre nós, guerra aos senhores!
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [2022-A](../temporadas/2022/apertura.md) | **[Resistência](../resistencia-alviverde.md)** | 7x4 | [Primavera](../Primavera.md) | [IV:XX](../IV:XX-de-Novembro.md) |  |  |
-| [2022-C](../temporadas/2022/clausura.md) | **[Teto Preto](../teto-preto.md)** | 3x1 | [Sankara](../sankara.md) | [Faixa Preta](../faixa-preta.md) | 10x1 | [Primavera](../Primavera.md) |
-| [2023-A](../temporadas/2023/apertura.md) | **[Sankara](../sankara.md)** | 11x3 | [Primavera](../Primavera.md) | [Pé-de-pano](../pe-de-pano.md) | 6x3 | [Deportivo Oriental](../deportivo-oriental.md) |
-| [2023-C](../temporadas/2023/clausura.md) | **[Guairacá](../guairaca.md)** | 5x3 | [Primavera](../Primavera.md) | [Sankara](../sankara.md) | 3x2 | [Teto Preto](../teto-preto.md) |
-| [2024-A](../temporadas/2024/apertura.md) | **[Teto Preto](../teto-preto.md)** | 4x4<br><small>(1x2 p)</small> | [Locomotiva](../locomotiva-makhnovista.md) | [Primavera](../Primavera.md) | 6x1 | [Imperial](../imperial.md) |
-| [2024-C](../temporadas/2024/clausura.md) | **[Deportivo Oriental](../deportivo-oriental.md)** | 6x3 | [Primavera](../Primavera.md) | [Imperial](../imperial.md) | 7x4 | [Sankara](../sankara.md) |
-| [2025-A](../temporadas/2025/apertura.md) | **[Aqui Estamos](../aqui-estamos.md)** | 4x3 | [Azulão](../azulão.md) | [Deportivo Oriental](../deportivo-oriental.md) | 2x1 | [Locomotiva](../locomotiva-makhnovista.md) |
-| [2025-C](../temporadas/2025/clausura.md) | **[Linha Esquerda](../linha-esquerda.md)** | 1x1<br><small>(4x3 p)</small> | [Azulão](../azulão.md) | [Umbabarauma](../umbabarauma.md) | 5x2 | [Aqui Estamos](../aqui-estamos.md) |
-| [2026-A](../temporadas/2026/apertura.md) | **[Deportivo Oriental](../deportivo-oriental.md)** | 4x1 | [Umbabarauma](../umbabarauma.md) | [Liverpanças](../liverpancas.md) | 8x1 | [Locomotiva](../locomotiva-makhnovista.md) |
+| [2022-A](../temporadas/2022/apertura.md) | **[Resistência](../times/resistencia-alviverde.md)** | 7x4 | [Primavera](../times/Primavera.md) | [IV:XX](../times/IV:XX-de-Novembro.md) |  |  |
+| [2022-C](../temporadas/2022/clausura.md) | **[Teto Preto](../times/teto-preto.md)** | 3x1 | [Sankara](../times/sankara.md) | [Faixa Preta](../times/faixa-preta.md) | 10x1 | [Primavera](../times/Primavera.md) |
+| [2023-A](../temporadas/2023/apertura.md) | **[Sankara](../times/sankara.md)** | 11x3 | [Primavera](../times/Primavera.md) | [Pé-de-pano](../times/pe-de-pano.md) | 6x3 | [Deportivo Oriental](../times/deportivo-oriental.md) |
+| [2023-C](../temporadas/2023/clausura.md) | **[Guairacá](../times/guairaca.md)** | 5x3 | [Primavera](../times/Primavera.md) | [Sankara](../times/sankara.md) | 3x2 | [Teto Preto](../times/teto-preto.md) |
+| [2024-A](../temporadas/2024/apertura.md) | **[Teto Preto](../times/teto-preto.md)** | 4x4<br><small>(1x2 p)</small> | [Locomotiva](../times/locomotiva-makhnovista.md) | [Primavera](../times/Primavera.md) | 6x1 | [Imperial](../times/imperial.md) |
+| [2024-C](../temporadas/2024/clausura.md) | **[Deportivo Oriental](../times/deportivo-oriental.md)** | 6x3 | [Primavera](../times/Primavera.md) | [Imperial](../times/imperial.md) | 7x4 | [Sankara](../times/sankara.md) |
+| [2025-A](../temporadas/2025/apertura.md) | **[Aqui Estamos](../times/aqui-estamos.md)** | 4x3 | [Azulão](../times/azulão.md) | [Deportivo Oriental](../times/deportivo-oriental.md) | 2x1 | [Locomotiva](../times/locomotiva-makhnovista.md) |
+| [2025-C](../temporadas/2025/clausura.md) | **[Linha Esquerda](../times/linha-esquerda.md)** | 1x1<br><small>(4x3 p)</small> | [Azulão](../times/azulão.md) | [Umbabarauma](../times/umbabarauma.md) | 5x2 | [Aqui Estamos](../times/aqui-estamos.md) |
+| [2026-A](../temporadas/2026/apertura.md) | **[Deportivo Oriental](../times/deportivo-oriental.md)** | 4x1 | [Umbabarauma](../times/umbabarauma.md) | [Liverpanças](../times/liverpancas.md) | 8x1 | [Locomotiva](../times/locomotiva-makhnovista.md) |
 
 ## Desempenho por Equipe
 
 | Equipe | Títulos | Vices | Terceiros | Quartos |
 | :--- | :---: | :---: | :---: | :---: |
-| [Deportivo Oriental](../deportivo-oriental.md) | 2 ([2024-C](../temporadas/2024/clausura.md), [2026-A](../temporadas/2026/apertura.md)) | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 1 ([2023-A](../temporadas/2023/apertura.md)) |
-| [Teto Preto](../teto-preto.md) | 2 ([2022-C](../temporadas/2022/clausura.md), [2024-A](../temporadas/2024/apertura.md)) | 0 | 0 | 1 ([2023-C](../temporadas/2023/clausura.md)) |
-| [Sankara](../sankara.md) | 1 ([2023-A](../temporadas/2023/apertura.md)) | 1 ([2022-C](../temporadas/2022/clausura.md)) | 1 ([2023-C](../temporadas/2023/clausura.md)) | 1 ([2024-C](../temporadas/2024/clausura.md)) |
-| [Aqui Estamos](../aqui-estamos.md) | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 | 1 ([2025-C](../temporadas/2025/clausura.md)) |
-| [Guairacá](../guairaca.md) | 1 ([2023-C](../temporadas/2023/clausura.md)) | 0 | 0 | 0 |
-| [Linha Esquerda](../linha-esquerda.md) | 1 ([2025-C](../temporadas/2025/clausura.md)) | 0 | 0 | 0 |
-| [Resistência](../resistencia-alviverde.md) | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 | 0 | 0 |
-| [Primavera](../Primavera.md) | 0 | 4 ([2022-A](../temporadas/2022/apertura.md), [2023-A](../temporadas/2023/apertura.md), [2023-C](../temporadas/2023/clausura.md), [2024-C](../temporadas/2024/clausura.md)) | 1 ([2024-A](../temporadas/2024/apertura.md)) | 1 ([2022-C](../temporadas/2022/clausura.md)) |
-| [Azulão](../azulão.md) | 0 | 2 ([2025-A](../temporadas/2025/apertura.md), [2025-C](../temporadas/2025/clausura.md)) | 0 | 0 |
-| [Umbabarauma](../umbabarauma.md) | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 1 ([2025-C](../temporadas/2025/clausura.md)) | 0 |
-| [Locomotiva](../locomotiva-makhnovista.md) | 0 | 1 ([2024-A](../temporadas/2024/apertura.md)) | 0 | 2 ([2025-A](../temporadas/2025/apertura.md), [2026-A](../temporadas/2026/apertura.md)) |
-| [Imperial](../imperial.md) | 0 | 0 | 1 ([2024-C](../temporadas/2024/clausura.md)) | 1 ([2024-A](../temporadas/2024/apertura.md)) |
-| [Faixa Preta](../faixa-preta.md) | 0 | 0 | 1 ([2022-C](../temporadas/2022/clausura.md)) | 0 |
-| [IV:XX](../IV:XX-de-Novembro.md) | 0 | 0 | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 |
-| [Liverpanças](../liverpancas.md) | 0 | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 0 |
-| [Pé-de-pano](../pe-de-pano.md) | 0 | 0 | 1 ([2023-A](../temporadas/2023/apertura.md)) | 0 |
+| [Deportivo Oriental](../times/deportivo-oriental.md) | 2 ([2024-C](../temporadas/2024/clausura.md), [2026-A](../temporadas/2026/apertura.md)) | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 1 ([2023-A](../temporadas/2023/apertura.md)) |
+| [Teto Preto](../times/teto-preto.md) | 2 ([2022-C](../temporadas/2022/clausura.md), [2024-A](../temporadas/2024/apertura.md)) | 0 | 0 | 1 ([2023-C](../temporadas/2023/clausura.md)) |
+| [Sankara](../times/sankara.md) | 1 ([2023-A](../temporadas/2023/apertura.md)) | 1 ([2022-C](../temporadas/2022/clausura.md)) | 1 ([2023-C](../temporadas/2023/clausura.md)) | 1 ([2024-C](../temporadas/2024/clausura.md)) |
+| [Aqui Estamos](../times/aqui-estamos.md) | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 | 1 ([2025-C](../temporadas/2025/clausura.md)) |
+| [Guairacá](../times/guairaca.md) | 1 ([2023-C](../temporadas/2023/clausura.md)) | 0 | 0 | 0 |
+| [Linha Esquerda](../times/linha-esquerda.md) | 1 ([2025-C](../temporadas/2025/clausura.md)) | 0 | 0 | 0 |
+| [Resistência](../times/resistencia-alviverde.md) | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 | 0 | 0 |
+| [Primavera](../times/Primavera.md) | 0 | 4 ([2022-A](../temporadas/2022/apertura.md), [2023-A](../temporadas/2023/apertura.md), [2023-C](../temporadas/2023/clausura.md), [2024-C](../temporadas/2024/clausura.md)) | 1 ([2024-A](../temporadas/2024/apertura.md)) | 1 ([2022-C](../temporadas/2022/clausura.md)) |
+| [Azulão](../times/azulão.md) | 0 | 2 ([2025-A](../temporadas/2025/apertura.md), [2025-C](../temporadas/2025/clausura.md)) | 0 | 0 |
+| [Umbabarauma](../times/umbabarauma.md) | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 1 ([2025-C](../temporadas/2025/clausura.md)) | 0 |
+| [Locomotiva](../times/locomotiva-makhnovista.md) | 0 | 1 ([2024-A](../temporadas/2024/apertura.md)) | 0 | 2 ([2025-A](../temporadas/2025/apertura.md), [2026-A](../temporadas/2026/apertura.md)) |
+| [Imperial](../times/imperial.md) | 0 | 0 | 1 ([2024-C](../temporadas/2024/clausura.md)) | 1 ([2024-A](../temporadas/2024/apertura.md)) |
+| [Faixa Preta](../times/faixa-preta.md) | 0 | 0 | 1 ([2022-C](../temporadas/2022/clausura.md)) | 0 |
+| [IV:XX](../times/IV:XX-de-Novembro.md) | 0 | 0 | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 |
+| [Liverpanças](../times/liverpancas.md) | 0 | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 0 |
+| [Pé-de-pano](../times/pe-de-pano.md) | 0 | 0 | 1 ([2023-A](../temporadas/2023/apertura.md)) | 0 |

@@ -3,3 +3,11 @@ Com influências vascaínas tanto no uniforme, quanto nos ideais, o Faixa Preta 
 O FP faz sua estreia na Liga Antifacista em 2022 com a responsabilidade de elevar o patamar do clube, levar alegria a nossa torcida e mostrar nosso posicionamento político em um momento tão necessário!
 
 O Faixa é o time do amor, da bebida, do respeito, da democracia e da fumaça!
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
+
+### Campanhas de Destaque
+* **Terceiro lugar**:
+  * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2022-C](../temporadas/2022/clausura.md))

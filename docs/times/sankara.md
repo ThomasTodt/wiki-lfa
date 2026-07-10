@@ -11,3 +11,16 @@ Nós do Sankara acreditamos que o futebol raiz é uma expressão genuína da bra
 Como disse um dos nossos craques, “se nada der certo, ao menos teremos um uniforme massa.”
 
 Sankara e na coragem, vamos surpreender a todos!
+
+## Títulos
+
+### Campeão
+* [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2023-A](../temporadas/2023/apertura.md))
+* [Taça Cecília](../campeonatos/taca-cecilia.md): 1 ([2026-A](../temporadas/2026/apertura.md))
+
+### Campanhas de Destaque
+* **Vice-campeão**:
+  * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2022-C](../temporadas/2022/clausura.md))
+* **Terceiro lugar**:
+  * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2023-C](../temporadas/2023/clausura.md))
+  * [Taça Cecília](../campeonatos/taca-cecilia.md): 1 ([2023-C](../temporadas/2023/clausura.md))

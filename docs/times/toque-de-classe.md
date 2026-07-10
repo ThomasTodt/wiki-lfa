@@ -11,3 +11,11 @@ Sabemos que não basta ter escolhas, é preciso questionar quais são essas opç
 _"A possibilidade de escolha do indivíduo não é o fator decisivo na determinação do seu grau de liberdade, mas sim o que pode ser escolhido e o que é escolhido pelo indivíduo."_
 
 No campo e na vida, não aceitamos as regras impostas sem reflexão. Não jogamos apenas para competir, jogamos para transformar.
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
+
+### Campanhas de Destaque
+* **Vice-campeão**:
+  * [Taça Wladimir Rodrigues](../campeonatos/taca-wladimir-rodrigues.md): 1 ([2025-A](../temporadas/2025/apertura.md))

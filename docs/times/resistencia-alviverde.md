@@ -13,3 +13,13 @@ Se tem um ato nas ruas, podem contar: estaremos lá. E agora, também, estaremos
 E que os demais da Liga que se cuidem: somos vários Léo Gamalhos (se não na aparência e na qualidade boleira, ao menos na intenção).
 
 Guenta os coxa de sinistra!
+
+## Títulos
+
+### Campeão
+* [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 2 ([2022-A](../temporadas/2022/apertura.md), [2022-C](../temporadas/2022/clausura.md))
+* [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2022-A](../temporadas/2022/apertura.md))
+
+### Campanhas de Destaque
+* **Terceiro lugar**:
+  * [Taça Cecília](../campeonatos/taca-cecilia.md): 1 ([2022-C](../temporadas/2022/clausura.md))

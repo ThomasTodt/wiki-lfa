@@ -10,3 +10,16 @@ Originalmente o Imperial utilizava o nome de Kiefernwald Futebol Clube, que trad
 O Imperial carrega em seu peito o orgulho do futebol paranaense e também de ser um cidadão paranaense.
 
 Por fim, seu lema é "Contra a hegemonia da águia careca capitalista, quem impera é somente a Harpya Brasileira!"
+
+## Títulos
+
+### Campeão
+* [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+* [Taça Cecília](../campeonatos/taca-cecilia.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+* [Recopa](../campeonatos/recopa.md): 1 ([2026-A](../temporadas/2026/apertura.md))
+* [Supertaça](../campeonatos/supertaca.md): 1 ([2026-A](../temporadas/2026/apertura.md))
+
+### Campanhas de Destaque
+* **Terceiro lugar**:
+  * [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 1 ([2025-A](../temporadas/2025/apertura.md))
+  * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2024-C](../temporadas/2024/clausura.md))

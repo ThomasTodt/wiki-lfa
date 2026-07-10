@@ -4,3 +4,11 @@ Com cada jogadora em campo, o Matriarcado simboliza a força das mulheres e a ca
 
 Nos campos, o grito das torcedoras ecoa: “Matriarcado, presente!” E em cada vitória, fica evidente que este time não joga apenas para vencer partidas, mas para construir um legado de resistência, coragem e união.
 Paz entre nós, guerra aos senhores!
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
+
+### Campanhas de Destaque
+* **Terceiro lugar**:
+  * [Taça Sissi](../campeonatos/taca-sissi.md): 1 ([2025-A](../temporadas/2025/apertura.md))

@@ -7,3 +7,14 @@ AZULÃO ESPORTE CLUBE
 O Azulão Esporte Clube é um sonho antigo de um grupo de amigos mais antigo ainda. Depois de nos tornarmos campeões na quadra em que nascemos, em abril de 2024, o sonho virou realidade. Como equipe, acreditamos no jogo limpo e no futebol arte, assim como na camaradagem dentro e fora de campo, nos ideais progressistas e socialistas, e no esporte como lugar de discussão política para além de uma ferramenta de amizade, lazer, orgulho e pertencimento. Com apoio de familiares e torcedores, temos a honra e a alegria de compor a Liga de Futebol Antifascista em 2025. Um viva à Nação Celeste, à Águia Anil, ao Manto Índigo e às nossas guerreiras e guerreiros Azulinos, lado a lado com muita astúcia, pouca sorte e unidos SEMPRE!
 
 AVANTE AZULÃO!
+
+## Títulos
+
+### Campeão
+* [Supertaça](../campeonatos/supertaca.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+* [Taça Wladimir Rodrigues](../campeonatos/taca-wladimir-rodrigues.md): 1 ([2025-A](../temporadas/2025/apertura.md))
+
+### Campanhas de Destaque
+* **Vice-campeão**:
+  * [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 1 ([2026-A](../temporadas/2026/apertura.md))
+  * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 2 ([2025-A](../temporadas/2025/apertura.md), [2025-C](../temporadas/2025/clausura.md))

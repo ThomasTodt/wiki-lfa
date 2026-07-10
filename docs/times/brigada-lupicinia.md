@@ -12,3 +12,11 @@ Cada passe é um acorde e cada gol soa como um refrão berrado com o punho cerra
 Somos músicos e boleiros, proletários e trovadores. Levando para o campo a energia das ruas e das arquibancadas.
 
 Se a dor às vezes nos visita, o campo é o nosso palco e a amizade é o nosso bis.
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
+
+### Campanhas de Destaque
+* **Terceiro lugar**:
+  * [Taça Wladimir Rodrigues](../campeonatos/taca-wladimir-rodrigues.md): 1 ([2025-C](../temporadas/2025/clausura.md))

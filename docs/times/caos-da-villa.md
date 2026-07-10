@@ -5,3 +5,7 @@
 O campeonato está batendo à porta e o coração do Caos da Villa já bate no ritmo do apito inicial. Mais do que um time, somos uma família que carrega no peito o orgulho da nossa origem.
 
 Sabemos que o desafio será grande, mas a nossa união é maior. Vamos honrar esse escudo, lutar por cada bola e mostrar que a organização e o talento caminham juntos.
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.

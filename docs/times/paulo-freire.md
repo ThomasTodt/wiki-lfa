@@ -11,3 +11,8 @@ Constituído por um pensamento crítico, o time também defende uma escola públ
 
 Tudo isso seguindo o poderoso pensamente de Paulo Freire em a Pedagogia do Oprimido:
 “Quando a educação não é libertadora, o sonho do oprimido é ser o opressor”
+
+## Títulos
+
+### Campeão
+* [Copa Foice](../campeonatos/copa-foice.md): 1 ([2026-A](../temporadas/2026/apertura.md))

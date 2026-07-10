@@ -7,3 +7,7 @@ A cena do futebol e sapatona de Curitiba anda muito próxima e usamos disso para
 
 🎶 Entra na quadra e ginga, ginga;
 fé na sua mandinga, na área é Ginga! 💜
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.

@@ -7,3 +7,7 @@
 サッカーの賢者たちには、松原はもう無くなったチームとされてるけど、僕たちは？ただの内輪ネタで2024年11月に生まれたチームさ。
 
 行くぞ、松原！！！
+
+## Títulos
+
+Esta equipe ainda não possui títulos oficiais.
