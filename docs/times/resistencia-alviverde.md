@@ -1,4 +1,6 @@
-Resistência Alviverde.
+<img width="150" height="150" alt="resalv" src="https://github.com/user-attachments/assets/0afd4545-2c26-4afb-a431-0f2a1908d220" />
+
+Resistência Alviverde
 
 Resistência Alviverde, presente. Somos o escrete do movimento de mesmo nome, fundado em 2021 reunindo torcedores do Coritiba politicamente situados à esquerda.
 
