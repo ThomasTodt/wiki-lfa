@@ -1,6 +1,27 @@
-<img width="150" height="150" alt="umba" src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" />
+# Umbabarauma Fut & Arte
 
-**Umbabarauma Fut & Arte**
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Umbabarauma Fut & Arte</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" width="150" alt="Escudo de Umbabarauma Fut & Arte" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Umbabarauma Fut & Arte</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2022</td>
+    </tr>
+  </tbody>
+</table>
 
 Nascido em 2022 de forma despretensiosa pela iniciativa de Luam Clarindo ao convocar amigos para a pelada. Sem alcunha definida até então o time foi se desenvolvendo e passando por várias fases. Atualmente o "Umbabarauma" une duas fortes características tupiniquins: a fome de bola e o talento musical.
 

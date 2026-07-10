@@ -1,6 +1,27 @@
-<img width="150" height="150" alt="pedepano" src="https://github.com/user-attachments/assets/658458ae-c363-43cb-8865-cafbe5b672ac" />
+# Pé de Pano
 
-Pé de Pano.
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Pé de Pano</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/658458ae-c363-43cb-8865-cafbe5b672ac" width="150" alt="Escudo de Pé de Pano" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Pé de Pano</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2001</td>
+    </tr>
+  </tbody>
+</table>
 
 Clube de futebol formado em meados de 2001 por 4 amigos (Sobrinho Léo “Battaglia” Zonato, Tio Rodrigo “Mudo” Zonato, Amigo Felipe “Salvatore” Fugmann, Primo Felipe “Nariz” Alessi) que sempre jogavam futsal - depois passamos a jogar no sintético e gramado. Não teve região da cidade de Curitiba que não jogamos. Norte, Sul, Leste e Oeste, levando o nome Pé de Pano por todos os cantos. A formação do time foi inspirada no patriarca da Família Zonato, que sempre foi apaixonado por futebol, cujo time se chamava Museu.
 

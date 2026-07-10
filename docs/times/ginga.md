@@ -1,4 +1,27 @@
-<img width="150" height="150" alt="ginga" src="https://github.com/user-attachments/assets/f7be1aaf-3148-4ae5-9b28-37650fa1b858" />
+# Ginga
+
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Ginga</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/f7be1aaf-3148-4ae5-9b28-37650fa1b858" width="150" alt="Escudo de Ginga" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Ginga</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2022</td>
+    </tr>
+  </tbody>
+</table>
 
 O Ginga é um grupo diverso de mulheres em sua maioria lésbicas e bissexuais, que se juntou em 2022, com o propósito de mais do que formar um time, mas conectar através do esporte cada vez mais mulheres e, principalmente, usar o esporte como instrumento de transformação social.
 

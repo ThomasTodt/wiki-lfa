@@ -1,8 +1,27 @@
+# Deportivo Oriental
 
-<img width="150" height="150" alt="deportivo" src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" />
-
-
-Deportivo Oriental.
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Deportivo Oriental</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" width="150" alt="Escudo de Deportivo Oriental" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Deportivo Oriental</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2023</td>
+    </tr>
+  </tbody>
+</table>
 
 Inspirados na República Popular Socialista da Albânia com sua história de resistência e autossuficiência que são exemplos para nossos tempos, nós somos o Deportivo Oriental. O time foi fundado em 2023 por alunos e ex-alunos de Ciências Sociais e História da UFPR com a participação de alguns agregados, tendo como colunas centrais em sua estrutura a democracia, a amizade, a cerveja e a resenha.
 

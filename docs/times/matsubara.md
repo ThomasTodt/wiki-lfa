@@ -1,4 +1,27 @@
-<img width="150" height="150" alt="matsubara" src="https://github.com/user-attachments/assets/f7f00f26-65a4-41f7-8c74-36f9cee16299" />
+# Matsubara
+
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Matsubara</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/f7f00f26-65a4-41f7-8c74-36f9cee16299" width="150" alt="Escudo de Matsubara" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Matsubara</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Novembro de 2024</td>
+    </tr>
+  </tbody>
+</table>
 
 気になるよね！？笑
 

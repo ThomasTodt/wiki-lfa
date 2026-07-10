@@ -1,6 +1,27 @@
-<img width="150" height="150" alt="loco" src="https://github.com/user-attachments/assets/af33c26a-18a8-498a-bb59-a6015818a97a" />
+# Locomotiva Makhnovista Futebol Socialismo e Camaradagem
 
-Locomotiva Makhnovista
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Locomotiva Makhnovista Futebol Socialismo e Camaradagem</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/af33c26a-18a8-498a-bb59-a6015818a97a" width="150" alt="Escudo de Locomotiva Makhnovista Futebol Socialismo e Camaradagem" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Locomotiva Makhnovista Futebol Socialismo e Camaradagem</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2016</td>
+    </tr>
+  </tbody>
+</table>
 
 A Locomotiva Makhnovista Futebol Socialismo e Camaradagem é um partido fundado em 2016, em Curitiba Oriental, como consolidação de laços de fraternidade cultivados ao longo do tempo nas ruas, nas manifestações políticas de trabalhadores, nos corredores do SCHLA da UFPR e nos shows de punk rock da cidade. Desde então já se passaram mais de 6 anos sem nenhuma baixa no elenco.
 

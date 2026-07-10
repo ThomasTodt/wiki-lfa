@@ -1,7 +1,27 @@
+# Clube de Futebol Estrela Vermelha
 
-<img width="150" height="150" alt="estrela" src="https://github.com/user-attachments/assets/88000cda-068f-40e3-851a-b2e1af57ef79" />
-
-**Clube de Futebol Estrela Vermelha**
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Clube de Futebol Estrela Vermelha</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/88000cda-068f-40e3-851a-b2e1af57ef79" width="150" alt="Escudo de Clube de Futebol Estrela Vermelha" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Clube de Futebol Estrela Vermelha</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2011 (Origem em 2005, refundado em 2016)</td>
+    </tr>
+  </tbody>
+</table>
 
 Clube de Futebol Estrela Vermelha, alinhado politicamente à esquerda e situado na Curitiba Oriental.
 

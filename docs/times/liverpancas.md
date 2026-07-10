@@ -1,5 +1,27 @@
+# Liverpanças
 
-<img width="150" height="150" alt="liverpancas" src="https://github.com/user-attachments/assets/a9cc5725-5bf6-40de-bac0-a7718b9e8097" />
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Liverpanças</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/a9cc5725-5bf6-40de-bac0-a7718b9e8097" width="150" alt="Escudo de Liverpanças" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Nome completo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Liverpanças</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Não informada</td>
+    </tr>
+  </tbody>
+</table>
 
 O Liverpanças nasceu daquilo que sustenta qualquer grande time: amizade, resenha e uma boa mesa cheia. Inspirados pelo Liverpool — um clube marcado pela força da comunidade e pelo espírito coletivo — um grupo de amigos da balbúrdia decidiu transformar encontros, risadas e refeições em algo ainda maior.
 
