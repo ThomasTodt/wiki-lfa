@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="matsubara" src="https://github.com/user-attachments/assets/f7f00f26-65a4-41f7-8c74-36f9cee16299" />
+
 気になるよね！？笑
 
 僕たちは松原、楽しさと正直さに基づいて作られたチームだよ。
