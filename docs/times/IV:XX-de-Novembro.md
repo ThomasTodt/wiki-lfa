@@ -1,4 +1,7 @@
+<img width="150" height="150" alt="ivxx" src="https://github.com/user-attachments/assets/6e862861-273e-4736-a40b-7db72d564c69" />
+
 IV & XX de Novembro.
+
 Também conhecido como Leões de Jah, nasce em 2016 para a disputa da gloriosa Copa Danone, mas com o tempo o que era apenas trivial tornou-se a amalgama que une no laço da amizade, futebol e a defesa da erva sagrada.
 
 Com sua bela juba, sua coroa na cabeça e seu baseado na mão, este leão trás uma importante missão. Defender suas três cores, o verde da flor, o amarelo da seda e o vermelho do fogo e com essa missão surge em uma 4ª as 20h do mês de Novembro, o afamado IV:XX de Novembro.
