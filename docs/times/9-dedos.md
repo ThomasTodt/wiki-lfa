@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="nine" src="https://github.com/user-attachments/assets/498964ac-815b-460b-80bd-066e7f2c8761" />
+
 O 9DEDOS é formado pelo ema e seus amigos,
 
 Alguns de longa data, outros nem tão longa assim.
