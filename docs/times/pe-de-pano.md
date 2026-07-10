@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="pedepano" src="https://github.com/user-attachments/assets/658458ae-c363-43cb-8865-cafbe5b672ac" />
+
 Pé de Pano.
 
 Clube de futebol formado em meados de 2001 por 4 amigos (Sobrinho Léo “Battaglia” Zonato, Tio Rodrigo “Mudo” Zonato, Amigo Felipe “Salvatore” Fugmann, Primo Felipe “Nariz” Alessi) que sempre jogavam futsal - depois passamos a jogar no sintético e gramado. Não teve região da cidade de Curitiba que não jogamos. Norte, Sul, Leste e Oeste, levando o nome Pé de Pano por todos os cantos. A formação do time foi inspirada no patriarca da Família Zonato, que sempre foi apaixonado por futebol, cujo time se chamava Museu.
