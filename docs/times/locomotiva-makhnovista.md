@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="loco" src="https://github.com/user-attachments/assets/af33c26a-18a8-498a-bb59-a6015818a97a" />
+
 Locomotiva Makhnovista
 
 A Locomotiva Makhnovista Futebol Socialismo e Camaradagem é um partido fundado em 2016, em Curitiba Oriental, como consolidação de laços de fraternidade cultivados ao longo do tempo nas ruas, nas manifestações políticas de trabalhadores, nos corredores do SCHLA da UFPR e nos shows de punk rock da cidade. Desde então já se passaram mais de 6 anos sem nenhuma baixa no elenco.
