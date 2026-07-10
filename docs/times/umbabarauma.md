@@ -1,4 +1,6 @@
-Umbabarauma.
+<img width="150" height="150" alt="umba" src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" />
+
+**Umbabarauma Fut & Arte**
 
 Nascido em 2022 de forma despretensiosa pela iniciativa de Luam Clarindo ao convocar amigos para a pelada. Sem alcunha definida até então o time foi se desenvolvendo e passando por várias fases. Atualmente o "Umbabarauma" une duas fortes características tupiniquins: a fome de bola e o talento musical.
 
