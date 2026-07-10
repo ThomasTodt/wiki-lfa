@@ -1,4 +1,4 @@
-A Taça Sissi era o torneio feminino da [LFA](../wiki)
+A Taça Sissi era o torneio feminino da [LFA](../Home.md)
 
 O nome homenageia Sisleine do Amor Lima, conhecida como Sissi. Natural de Esplanada (BA), Sissi foi uma das precursoras do futebol feminino, que permaneceu proibido no Brasil até 1979. A jogadora ganhou destaque e chegou à seleção brasileira em 1999, quando conquistou a terceira posição. Sissi, então, cumpriu sua promessa de raspar a cabeça em caso de uma boa colocação.
 
