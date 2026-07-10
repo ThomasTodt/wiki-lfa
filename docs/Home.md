@@ -4,9 +4,12 @@
 
 A **Liga de Futebol Antifascista (LFA)** é...
 
+Para contribuir com esta wiki, clique [aqui](../README.md)
+
 ---
 
-## Equipes
+<details>
+<summary><h2>Equipes</h2></summary>
 
 ### Membros Ativos
 * [9-Dedos](./times/9-dedos.md)
@@ -42,10 +45,12 @@ A **Liga de Futebol Antifascista (LFA)** é...
 * [Resistência Alviverde](./times/resistencia-alviverde.md)
 * [São Bento](./times/sao-bento.md)
 * [Teto Preto](./times/teto-preto.md)
+</details>
 
 ---
 
-## Campeonatos
+<details>
+<summary><h2>Campeonatos</h2></summary>
 
 * [Taça Cecília](./campeonatos/taca-cecilia.md)
 * [Taça Wladimir Rodrigues](./campeonatos/taca-wladimir-rodrigues.md)
@@ -55,10 +60,12 @@ A **Liga de Futebol Antifascista (LFA)** é...
 * [Copa Carlos Caszely](./campeonatos/copa-carlos-caszely.md)
 * [Copa Foice](./campeonatos/copa-foice.md)
 * [Recopa](./campeonatos/recopa.md)
+</details>
 
 ---
 
-## Temporadas
+<details>
+<summary><h2>Temporadas</h2></summary>
 
 ### 2022
 * [2022 Apertura](./temporadas/2022/apertura.md)
@@ -79,4 +86,6 @@ A **Liga de Futebol Antifascista (LFA)** é...
 ### 2026
 * [2026 Apertura](./temporadas/2026/apertura.md)
 * [2026 Clausura](./temporadas/2026/clausura.md)
+</details>
+
 
