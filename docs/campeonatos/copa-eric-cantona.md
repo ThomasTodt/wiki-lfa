@@ -12,24 +12,24 @@
 | [2024-C](../temporadas/2024/clausura.md) | **[Estrela Vermelha](../times/Estrela-Vermelha.md)** | 4x3 | [Teto Preto](../times/teto-preto.md) | [Pé-de-pano](../times/pe-de-pano.md) | WO | [Aqui Estamos](../times/aqui-estamos.md) |
 | [2025-A](../temporadas/2025/apertura.md) | **[Estrela Vermelha](../times/Estrela-Vermelha.md)** | 5x3 | [9Dedos](../times/9-dedos.md) | [Imperial](../times/imperial.md) | 8x6 | [Primavera](../times/Primavera.md) |
 | [2025-C](../temporadas/2025/clausura.md) | **[Imperial](../times/imperial.md)** | 2x1 | [Estrela Vermelha](../times/Estrela-Vermelha.md) | [Deportivo Oriental](../times/deportivo-oriental.md) | 2x1 | [Primavera](../times/Primavera.md) |
-| [2026-A](../temporadas/2026/apertura.md) | **[Estrela Vermelha](../times/Estrela-Vermelha.md)** | 5x2 | [Azulão](../times/azulão.md) | [América de Calo](../times/america-de-calo.md) | 6x2 | [Sankara](../times/sankara.md) |
+| [2026-A](./cantona/2026-apertura.md) | **[Estrela Vermelha](../times/Estrela-Vermelha.md)** | 5x2 | [Azulão](../times/azulão.md) | [América de Calo](../times/america-de-calo.md) | 6x2 | [Sankara](../times/sankara.md) |
 
 ## Desempenho por Equipe
 
 | Equipe | Títulos | Vices | Terceiros | Quartos |
 | :--- | :---: | :---: | :---: | :---: |
-| [Estrela Vermelha](../times/Estrela-Vermelha.md) | 4 ([2024-A](../temporadas/2024/apertura.md), [2024-C](../temporadas/2024/clausura.md), [2025-A](../temporadas/2025/apertura.md), [2026-A](../temporadas/2026/apertura.md)) | 3 ([2022-C](../temporadas/2022/clausura.md), [2023-A](../temporadas/2023/apertura.md), [2025-C](../temporadas/2025/clausura.md)) | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 |
+| [Estrela Vermelha](../times/Estrela-Vermelha.md) | 4 ([2024-A](../temporadas/2024/apertura.md), [2024-C](../temporadas/2024/clausura.md), [2025-A](../temporadas/2025/apertura.md), [2026-A](./cantona/2026-apertura.md)) | 3 ([2022-C](../temporadas/2022/clausura.md), [2023-A](../temporadas/2023/apertura.md), [2025-C](../temporadas/2025/clausura.md)) | 1 ([2022-A](../temporadas/2022/apertura.md)) | 0 |
 | [Resistência](../times/resistencia-alviverde.md) | 2 ([2022-A](../temporadas/2022/apertura.md), [2022-C](../temporadas/2022/clausura.md)) | 0 | 0 | 0 |
 | [Pé-de-pano](../times/pe-de-pano.md) | 1 ([2023-C](../temporadas/2023/clausura.md)) | 1 ([2022-A](../temporadas/2022/apertura.md)) | 2 ([2022-C](../temporadas/2022/clausura.md), [2024-C](../temporadas/2024/clausura.md)) | 0 |
 | [Locomotiva](../times/locomotiva-makhnovista.md) | 1 ([2023-A](../temporadas/2023/apertura.md)) | 0 | 1 ([2023-C](../temporadas/2023/clausura.md)) | 1 ([2022-C](../temporadas/2022/clausura.md)) |
 | [Imperial](../times/imperial.md) | 1 ([2025-C](../temporadas/2025/clausura.md)) | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 |
 | [9Dedos](../times/9-dedos.md) | 0 | 2 ([2023-C](../temporadas/2023/clausura.md), [2025-A](../temporadas/2025/apertura.md)) | 0 | 0 |
 | [Guairacá](../times/guairaca.md) | 0 | 1 ([2024-A](../temporadas/2024/apertura.md)) | 0 | 1 ([2023-A](../temporadas/2023/apertura.md)) |
-| [Azulão](../times/azulão.md) | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 0 | 0 |
+| [Azulão](../times/azulão.md) | 0 | 1 ([2026-A](./cantona/2026-apertura.md)) | 0 | 0 |
 | [Teto Preto](../times/teto-preto.md) | 0 | 1 ([2024-C](../temporadas/2024/clausura.md)) | 0 | 0 |
 | [Deportivo Oriental](../times/deportivo-oriental.md) | 0 | 0 | 2 ([2024-A](../temporadas/2024/apertura.md), [2025-C](../temporadas/2025/clausura.md)) | 0 |
 | [Umbabarauma](../times/umbabarauma.md) | 0 | 0 | 1 ([2023-A](../temporadas/2023/apertura.md)) | 1 ([2023-C](../temporadas/2023/clausura.md)) |
-| [América de Calo](../times/america-de-calo.md) | 0 | 0 | 1 ([2026-A](../temporadas/2026/apertura.md)) | 0 |
+| [América de Calo](../times/america-de-calo.md) | 0 | 0 | 1 ([2026-A](./cantona/2026-apertura.md)) | 0 |
 | [Primavera](../times/Primavera.md) | 0 | 0 | 0 | 3 ([2022-A](../temporadas/2022/apertura.md), [2025-A](../temporadas/2025/apertura.md), [2025-C](../temporadas/2025/clausura.md)) |
-| [Sankara](../times/sankara.md) | 0 | 0 | 0 | 2 ([2024-A](../temporadas/2024/apertura.md), [2026-A](../temporadas/2026/apertura.md)) |
+| [Sankara](../times/sankara.md) | 0 | 0 | 0 | 2 ([2024-A](../temporadas/2024/apertura.md), [2026-A](./cantona/2026-apertura.md)) |
 | [Aqui Estamos](../times/aqui-estamos.md) | 0 | 0 | 0 | 1 ([2024-C](../temporadas/2024/clausura.md)) |
