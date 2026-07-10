@@ -1,4 +1,4 @@
-A Taça Cecília é um campeonato de duas fases, e representa a primeira divisão da [LFA](../wiki). O nome homenageia
+A Taça Cecília é um campeonato de duas fases, e representa a primeira divisão da [LFA](../Home.md). O nome homenageia
 
 ## Histórico
 
