@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="calo" src="https://github.com/user-attachments/assets/b3e8aa6c-44d4-4c76-acde-40adee021aa1" />
+
 # América de Calo
 
 O América de Calo é uma equipe participante da Liga de Futebol Antifascista (LFA).
