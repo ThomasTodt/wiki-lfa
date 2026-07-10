@@ -1,5 +1,0 @@
-A Taça Wladimir Rodrigues representa a segunda divisão da [LFA](../wiki)
-
-A Wladimir Rodrigues é mais do que uma competição de futebol; é ums homenagem à luta por justiça, igualdade e democracia. Nomeado em homenagem a Wladimir Rodrigues, ex-lateral do Corinthians e um dos símbolos da Democracia Corinthiana, o torneio celebra seu compromisso com a liberdade dentro e fora dos gramados.
-
-Wladimir não foi apenas um dos jogadores mais vitoriosos da história do clube, mas também um defensor ativo da redemocratização do Brasil, usando sua voz e seu futebol para questionar a ditadura e fortalecer a participação política no esporte. Inspirado nesses valores, o campeonato reafirma o futebol como ferramenta de resistência, promovendo um jogo antifascista, inclusivo e comprometido com a transformação social.

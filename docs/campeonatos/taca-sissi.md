@@ -7,4 +7,20 @@ O que, em qualquer homem, renderia até reportagens sobre sua “ousadia”, par
 Sissi enfrentou todas as formas de machismo e sexismo. Foi impedida de jogar devido a essas regras, desfalcou seu clube na época, o São Paulo, e acabou pagando o preço por sua postura: deixou de ser convocada, perdeu oportunidades, mas, como uma verdadeira guerreira, não baixou a cabeça. Seguiu sendo ela mesma, mesmo que isso lhe tenha custado o reconhecimento por seus feitos em campo.
 
 Por essa razão, Sissi nos inspira: por sua habilidade dentro de campo, sua coragem fora dele e a certeza de que esteve sempre do lado certo. Ela merece toda a glória que uma jogadora deve ter, pois sua luta dentro e fora de campo inspira atletas e todas as pessoas que não se calam diante de injustiças e desigualdades.
+
 Paz entre nós, guerra aos senhores!
+
+## Histórico
+
+| Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [2025-A](../temporadas/2025/apertura.md) | **[São Bento](../sao-bento.md)** | x | [Delas](../delas.md) | [Matriarcado](../matriarcado.md) | x | [Ginga](../ginga.md) |
+
+## Desempenho por Equipe
+
+| Equipe | Títulos | Vices | Terceiros | Quartos |
+| :--- | :---: | :---: | :---: | :---: |
+| [São Bento](../sao-bento.md) | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 | 0 |
+| [Delas](../delas.md) | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 |
+| [Matriarcado](../matriarcado.md) | 0 | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 |
+| [Ginga](../ginga.md) | 0 | 0 | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) |
