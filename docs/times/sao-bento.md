@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="saobento" src="https://github.com/user-attachments/assets/7bb0359b-108c-420b-85e4-e411223b765f" />
+
 O São Bento foi fundado em 31/01/2025 com o lema “Compromisso e lealdade com a vitória e a amizade”.
 
 O time nasceu da necessidade de quatro amigas que gostavam muito de jogar juntas, mas não tinham encontrado uma equipe cuja rotina de treinos, desenvolvimento contínuo e liderança positiva fossem os principais aspectos da cultura.
