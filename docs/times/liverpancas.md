@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/a9cc5725-5bf6-40de-bac0-a7718b9e8097" width="150" alt="Escudo de Liverpanças" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/a9cc5725-5bf6-40de-bac0-a7718b9e8097" width="150" alt="Escudo de Liverpanças" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

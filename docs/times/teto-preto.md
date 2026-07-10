@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/803b1813-34d0-4744-9aae-902ccfb82d14" width="150" alt="Escudo de Teto Preto FC" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/803b1813-34d0-4744-9aae-902ccfb82d14" width="150" alt="Escudo de Teto Preto FC" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

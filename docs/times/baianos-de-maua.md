@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/07e52a21-bfca-4407-b9eb-a15ae958044e" width="150" alt="Escudo de Baianos de Mauá" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/07e52a21-bfca-4407-b9eb-a15ae958044e" width="150" alt="Escudo de Baianos de Mauá" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

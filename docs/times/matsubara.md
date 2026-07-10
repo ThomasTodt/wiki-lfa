@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/f7f00f26-65a4-41f7-8c74-36f9cee16299" width="150" alt="Escudo de Matsubara" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/f7f00f26-65a4-41f7-8c74-36f9cee16299" width="150" alt="Escudo de Matsubara" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" width="150" alt="Escudo de Umbabarauma Fut & Arte" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" width="150" alt="Escudo de Umbabarauma Fut & Arte" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

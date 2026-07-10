@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/1b621497-b322-43d0-8fe2-fb9d47ae8958" width="150" alt="Escudo de Azulão Esporte Clube" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/1b621497-b322-43d0-8fe2-fb9d47ae8958" width="150" alt="Escudo de Azulão Esporte Clube" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

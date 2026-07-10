@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/6e862861-273e-4736-a40b-7db72d564c69" width="150" alt="Escudo de IV:XX de Novembro" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/6e862861-273e-4736-a40b-7db72d564c69" width="150" alt="Escudo de IV:XX de Novembro" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

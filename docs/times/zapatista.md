@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/3bdfb10b-0262-4879-856a-a1f28b83273d" width="150" alt="Escudo de Clube Atlético Zapatista" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/3bdfb10b-0262-4879-856a-a1f28b83273d" width="150" alt="Escudo de Clube Atlético Zapatista" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

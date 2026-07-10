@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/d399ab7c-0390-46e8-b068-e97873681c01" width="150" alt="Escudo de Guairacá Futebol Ancestral" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/d399ab7c-0390-46e8-b068-e97873681c01" width="150" alt="Escudo de Guairacá Futebol Ancestral" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

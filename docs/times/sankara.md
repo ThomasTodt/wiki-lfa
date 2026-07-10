@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/96975c32-0407-4e86-b10e-6ed19793a275" width="150" alt="Escudo de Sankara" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/96975c32-0407-4e86-b10e-6ed19793a275" width="150" alt="Escudo de Sankara" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/3b6e456e-6212-4fcb-8c79-869c2f92a404" width="150" alt="Escudo de Aqui Estamos Futebol, Amizade e Pixação" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/3b6e456e-6212-4fcb-8c79-869c2f92a404" width="150" alt="Escudo de Aqui Estamos Futebol, Amizade e Pixação" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

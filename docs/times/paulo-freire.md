@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/4cf02e7c-51c6-48a7-b0fd-d8570c4b44f4" width="150" alt="Escudo de FC ST. Paulo Freire" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/4cf02e7c-51c6-48a7-b0fd-d8570c4b44f4" width="150" alt="Escudo de FC ST. Paulo Freire" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>

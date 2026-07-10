@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
-        <img src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" width="150" alt="Escudo de Deportivo Oriental" />
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" width="150" alt="Escudo de Deportivo Oriental" style="display: block; margin: 0 auto;" />
       </td>
     </tr>
     <tr>
