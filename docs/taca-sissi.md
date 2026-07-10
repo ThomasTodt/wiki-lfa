@@ -1,0 +1,10 @@
+A Taça Sissi era o torneio feminino da [LFA](../wiki)
+
+O nome homenageia Sisleine do Amor Lima, conhecida como Sissi. Natural de Esplanada (BA), Sissi foi uma das precursoras do futebol feminino, que permaneceu proibido no Brasil até 1979. A jogadora ganhou destaque e chegou à seleção brasileira em 1999, quando conquistou a terceira posição. Sissi, então, cumpriu sua promessa de raspar a cabeça em caso de uma boa colocação.
+
+O que, em qualquer homem, renderia até reportagens sobre sua “ousadia”, para Sissi não aconteceu. A própria CBF fez de tudo para “esconder” a Sissi careca, evitando sua presença em entrevistas e chegando ao ponto de criar a famosa “lei da beleza” de 2001, que buscava “atrair o público masculino” com a “beleza de suas jogadoras”.
+
+Sissi enfrentou todas as formas de machismo e sexismo. Foi impedida de jogar devido a essas regras, desfalcou seu clube na época, o São Paulo, e acabou pagando o preço por sua postura: deixou de ser convocada, perdeu oportunidades, mas, como uma verdadeira guerreira, não baixou a cabeça. Seguiu sendo ela mesma, mesmo que isso lhe tenha custado o reconhecimento por seus feitos em campo.
+
+Por essa razão, Sissi nos inspira: por sua habilidade dentro de campo, sua coragem fora dele e a certeza de que esteve sempre do lado certo. Ela merece toda a glória que uma jogadora deve ter, pois sua luta dentro e fora de campo inspira atletas e todas as pessoas que não se calam diante de injustiças e desigualdades.
+Paz entre nós, guerra aos senhores!
