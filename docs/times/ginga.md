@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="ginga" src="https://github.com/user-attachments/assets/f7be1aaf-3148-4ae5-9b28-37650fa1b858" />
+
 O Ginga é um grupo diverso de mulheres em sua maioria lésbicas e bissexuais, que se juntou em 2022, com o propósito de mais do que formar um time, mas conectar através do esporte cada vez mais mulheres e, principalmente, usar o esporte como instrumento de transformação social.
 
 Nestes três anos de história, ganhamos e perdemos juntas, e tão importante quanto o futebol e os títulos, são as oportunidades e amizades que construímos através deles.
