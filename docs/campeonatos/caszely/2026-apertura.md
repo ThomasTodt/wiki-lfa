@@ -49,97 +49,123 @@ O **Deportivo Oriental** faturou o título ao derrotar o **Umbabarauma** por 4 a
 
 A Copa foi disputada em jogos de eliminação direta a partir das Quartas de Final.
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th colspan="2">Quartas de Final</th>
-    <th></th>
-    <th colspan="2">Semifinais</th>
-    <th></th>
-    <th colspan="2">Final</th>
+    <th style="width: 30%; text-align: center; padding-bottom: 10px;">Quartas de Final</th>
+    <th style="width: 5%;"></th>
+    <th style="width: 30%; text-align: center; padding-bottom: 10px;">Semifinais</th>
+    <th style="width: 5%;"></th>
+    <th style="width: 30%; text-align: center; padding-bottom: 10px;">Final</th>
   </tr>
   <tr>
-    <td><b><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></b></td>
-    <td><b>2</b></td>
-    <td rowspan="3"></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-    <td rowspan="6"></td>
-    <td rowspan="4"></td>
-    <td rowspan="4"></td>
+    <!-- Quartas de Final Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <!-- QF 1 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 15px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/locomotiva-makhnovista.md"><b>Locomotiva Makhnovista</b></a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px; font-weight: bold;">2</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/guairaca.md">Guairacá Futebol Ancestral</a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px;">1</td>
+        </tr>
+      </table>
+      <!-- QF 2 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 15px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/brigada-lupicinia.md">Brigada Lupicínia F.C.</a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/deportivo-oriental.md"><b>Deportivo Oriental</b></a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px; font-weight: bold;">1 (p)</td>
+        </tr>
+      </table>
+      <!-- QF 3 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 15px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/toque-de-classe.md">Toque de Classe</a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px;">0</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/liverpancas.md"><b>Liverpanças FC</b></a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px; font-weight: bold;">1</td>
+        </tr>
+      </table>
+      <!-- QF 4 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/Primavera.md">Primavera F.C.</a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 6px; border: 1px solid #d8dee4;"><a href="../../times/umbabarauma.md"><b>Umbabarauma</b></a></td>
+          <td style="padding: 6px; border: 1px solid #d8dee4; text-align: center; width: 45px; font-weight: bold;">3</td>
+        </tr>
+      </table>
+    </td>
+    
+    <!-- Spacer -->
+    <td></td>
+    
+    <!-- Semifinais Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <!-- SF 1 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 60px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/deportivo-oriental.md"><b>Deportivo Oriental</b></a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">2</td>
+        </tr>
+      </table>
+      <!-- SF 2 -->
+      <table style="border: 1px solid #d8dee4; width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/liverpancas.md">Liverpanças FC</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/umbabarauma.md"><b>Umbabarauma</b></a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">1 (p)</td>
+        </tr>
+      </table>
+    </td>
+    
+    <!-- Spacer -->
+    <td></td>
+    
+    <!-- Final Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <table style="border: 2px solid #333; width: 100%; border-collapse: collapse;">
+        <tr style="background-color: #f6f8fa;">
+          <th colspan="2" style="padding: 10px; text-align: center; border-bottom: 2px solid #333;">FINAL</th>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/deportivo-oriental.md"><b>Deportivo Oriental</b></a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">4</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/umbabarauma.md">Umbabarauma</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<h3>Disputa pelo 3º lugar</h3>
+<table style="border: 1px solid #d8dee4; width: 320px; border-collapse: collapse; margin-top: 15px;">
+  <tr>
+    <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #e6ffec;"><a href="../../times/liverpancas.md"><b>Liverpanças FC</b></a></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">8</td>
   </tr>
   <tr>
-    <td><a href="../../times/guairaca.md">Guairacá Futebol Ancestral</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td rowspan="3"></td>
-    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
-    <td><b>2</b></td>
-  </tr>
-  <tr>
-    <td><a href="../../times/brigada-lupicinia.md">Brigada Lupicínia F.C.</a></td>
-    <td>1</td>
-    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
-    <td><b>4</b></td>
-  </tr>
-  <tr>
-    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
-    <td><b>1 (pen)</b></td>
-    <td><a href="../../times/umbabarauma.md">Umbabarauma</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td colspan="8"></td>
-  </tr>
-  <tr>
-    <td><a href="../../times/toque-de-classe.md">Toque de Classe</a></td>
-    <td>0</td>
-    <td rowspan="3"></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-  </tr>
-  <tr>
-    <td><b><a href="../../times/liverpancas.md">Liverpanças FC</a></b></td>
-    <td><b>1</b></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td><a href="../../times/liverpancas.md">Liverpanças FC</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td rowspan="3"></td>
-    <td><b><a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
-    <td><b>1 (pen)</b></td>
-  </tr>
-  <tr>
-    <td><a href="../../times/Primavera.md">Primavera F.C.</a></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td><b><a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
-    <td><b>3</b></td>
-  </tr>
-  <tr>
-    <td colspan="8"></td>
-  </tr>
-  <tr>
-    <th colspan="8">Disputa pelo 3º lugar</th>
-  </tr>
-  <tr>
-    <td colspan="6"><b><a href="../../times/liverpancas.md">Liverpanças FC</a></b></td>
-    <td><b>8</b></td>
-  </tr>
-  <tr>
-    <td colspan="6">[Locomotiva Makhnovista](../../times/locomotiva-makhnovista.md)</td>
-    <td>1</td>
+    <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">1</td>
   </tr>
 </table>
 

@@ -75,16 +75,74 @@ As equipes classificadas de 3º a 6º na Primeira Fase disputaram um quadrangula
 
 *Nota: Caos da Villa e Baianos de Mauá foram eliminados e passaram a disputar a Copa Foice.*
 
-## Fase Final (Playoffs)
+## Fase Final
 
-As semifinais contaram com os dois melhores da primeira fase (Brigada Lupicínia e Liverpanças) enfrentando os dois classificados da segunda fase (Locomotiva e Umbabarauma).
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="width: 45%; text-align: center; padding-bottom: 10px;">Semifinais</th>
+    <th style="width: 10%;"></th>
+    <th style="width: 45%; text-align: center; padding-bottom: 10px;">Final</th>
+  </tr>
+  <tr>
+    <!-- Semifinais Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <!-- SF 1 Table -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 25px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[1] <a href="../../times/brigada-lupicinia.md">Brigada Lupicínia F.C.</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">3</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[2] <a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">5</td>
+        </tr>
+      </table>
+      <!-- SF 2 Table -->
+      <table style="border: 1px solid #d8dee4; width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[2] <a href="../../times/liverpancas.md">Liverpanças FC</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">2</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[1] <a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista F.S.C</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">0</td>
+        </tr>
+      </table>
+    </td>
+    
+    <!-- Spacer Column -->
+    <td></td>
+    
+    <!-- Final Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <table style="border: 2px solid #333; width: 100%; border-collapse: collapse;">
+        <tr style="background-color: #f6f8fa;">
+          <th colspan="2" style="padding: 10px; text-align: center; border-bottom: 2px solid #333;">FINAL</th>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[2] <a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">2</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[2] <a href="../../times/liverpancas.md">Liverpanças FC</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">0</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-### Confrontos
-
-* **Semifinal 1**: [Brigada Lupicínia F.C.](../../times/brigada-lupicinia.md) 3–5 **Umbabarauma**
-* **Semifinal 2**: **Liverpanças FC** 2–0 [Locomotiva Makhnovista F.S.C](../../times/locomotiva-makhnovista.md)
-* **Disputa pelo 3º lugar**: **[Locomotiva Makhnovista F.S.C](../../times/locomotiva-makhnovista.md)** 1–0 [Brigada Lupicínia F.C.](../../times/brigada-lupicinia.md)
-* **Final**: **Umbabarauma** 2–0 Liverpanças FC
+<h3>Disputa pelo 3º lugar</h3>
+<table style="border: 1px solid #d8dee4; width: 320px; border-collapse: collapse; margin-top: 15px;">
+  <tr>
+    <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[1] <a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista F.S.C</a></b></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">1</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #d8dee4;">[1] <a href="../../times/brigada-lupicinia.md">Brigada Lupicínia F.C.</a></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">0</td>
+  </tr>
+</table>
 
 ## Artilharia
 

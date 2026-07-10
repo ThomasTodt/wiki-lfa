@@ -68,64 +68,72 @@ A primeira fase consistiu em um turno único onde todas as equipes se enfrentara
 
 ## Fase Final
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th colspan="2">Semifinais</th>
-    <th></th>
-    <th colspan="2">Final</th>
+    <th style="width: 45%; text-align: center; padding-bottom: 10px;">Semifinais</th>
+    <th style="width: 10%;"></th>
+    <th style="width: 45%; text-align: center; padding-bottom: 10px;">Final</th>
   </tr>
   <tr>
-    <td>[1] <a href="../../times/america-de-calo.md">América de Calo</a></td>
-    <td>1</td>
-    <td rowspan="3"></td>
-    <td rowspan="2"></td>
-    <td rowspan="2"></td>
-  </tr>
-  <tr>
-    <td><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
-    <td><b>2</b></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
-    <td><b>3</b></td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td rowspan="3"></td>
-    <td>[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td><b>[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
-    <td><b>1</b></td>
-  </tr>
-  <tr>
-    <td>[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td colspan="5"></td>
-  </tr>
-  <tr>
-    <th colspan="5">Disputa pelo 3º lugar</th>
-  </tr>
-  <tr>
-    <td colspan="3"><b>[1] <a href="../../times/america-de-calo.md">América de Calo</a></b></td>
-    <td><b>4</b></td>
-  </tr>
-  <tr>
-    <td colspan="3">[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
-    <td>0</td>
+    <!-- Semifinais Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <!-- SF 1 Table -->
+      <table style="border: 1px solid #d8dee4; width: 100%; margin-bottom: 25px; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[1] <a href="../../times/america-de-calo.md">América de Calo</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">2</td>
+        </tr>
+      </table>
+      <!-- SF 2 Table -->
+      <table style="border: 1px solid #d8dee4; width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">1</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">0</td>
+        </tr>
+      </table>
+    </td>
+    
+    <!-- Spacer Column -->
+    <td></td>
+    
+    <!-- Final Column -->
+    <td style="vertical-align: middle; padding: 10px;">
+      <table style="border: 2px solid #333; width: 100%; border-collapse: collapse;">
+        <tr style="background-color: #f6f8fa;">
+          <th colspan="2" style="padding: 10px; text-align: center; border-bottom: 2px solid #333;">FINAL</th>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;">[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">2</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
+          <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">3</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
-### Detalhes dos Confrontos
-
-* **Semifinal 1**: América de Calo 1–2 **Sankara**
-* **Semifinal 2**: **Estrela Vermelha** 1–0 Linha Esquerda F.C.
-* **Disputa pelo 3º lugar**: **América de Calo** 4–0 Linha Esquerda F.C.
-* **Final**: Estrela Vermelha 2–3 **Sankara**
+<h3>Disputa pelo 3º lugar</h3>
+<table style="border: 1px solid #d8dee4; width: 320px; border-collapse: collapse; margin-top: 15px;">
+  <tr>
+    <td style="padding: 8px; border: 1px solid #d8dee4;"><b>[1] <a href="../../times/america-de-calo.md">América de Calo</a></b></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">4</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #d8dee4;">[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
+    <td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px;">0</td>
+  </tr>
+</table>
 
 ## Artilharia
 
