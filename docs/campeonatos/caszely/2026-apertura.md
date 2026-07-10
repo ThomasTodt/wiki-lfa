@@ -58,7 +58,7 @@ A Copa foi disputada em jogos de eliminação direta a partir das Quartas de Fin
     <th colspan="2">Final</th>
   </tr>
   <tr>
-    <td><b>[Locomotiva Makhnovista](../../times/locomotiva-makhnovista.md)</b></td>
+    <td><b><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></b></td>
     <td><b>2</b></td>
     <td rowspan="3"></td>
     <td rowspan="2"></td>
@@ -68,63 +68,63 @@ A Copa foi disputada em jogos de eliminação direta a partir das Quartas de Fin
     <td rowspan="4"></td>
   </tr>
   <tr>
-    <td>[Guairacá Futebol Ancestral](../../times/guairaca.md)</td>
+    <td><a href="../../times/guairaca.md">Guairacá Futebol Ancestral</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>[Locomotiva Makhnovista](../../times/locomotiva-makhnovista.md)</td>
+    <td><a href="../../times/locomotiva-makhnovista.md">Locomotiva Makhnovista</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td><b>[Deportivo Oriental](../../times/deportivo-oriental.md)</b></td>
+    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
     <td><b>2</b></td>
   </tr>
   <tr>
-    <td>[Brigada Lupicínia F.C.](../../times/brigada-lupicinia.md)</td>
+    <td><a href="../../times/brigada-lupicinia.md">Brigada Lupicínia F.C.</a></td>
     <td>1</td>
-    <td><b>[Deportivo Oriental](../../times/deportivo-oriental.md)</b></td>
+    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
     <td><b>4</b></td>
   </tr>
   <tr>
-    <td><b>[Deportivo Oriental](../../times/deportivo-oriental.md)</b></td>
+    <td><b><a href="../../times/deportivo-oriental.md">Deportivo Oriental</a></b></td>
     <td><b>1 (pen)</b></td>
-    <td>[Umbabarauma](../../times/umbabarauma.md)</td>
+    <td><a href="../../times/umbabarauma.md">Umbabarauma</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td colspan="8"></td>
   </tr>
   <tr>
-    <td>[Toque de Classe](../../times/toque-de-classe.md)</td>
+    <td><a href="../../times/toque-de-classe.md">Toque de Classe</a></td>
     <td>0</td>
     <td rowspan="3"></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td><b>[Liverpanças FC](../../times/liverpancas.md)</b></td>
+    <td><b><a href="../../times/liverpancas.md">Liverpanças FC</a></b></td>
     <td><b>1</b></td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>[Liverpanças FC](../../times/liverpancas.md)</td>
+    <td><a href="../../times/liverpancas.md">Liverpanças FC</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td><b>[Umbabarauma](../../times/umbabarauma.md)</b></td>
+    <td><b><a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
     <td><b>1 (pen)</b></td>
   </tr>
   <tr>
-    <td>[Primavera F.C.](../../times/Primavera.md)</td>
+    <td><a href="../../times/Primavera.md">Primavera F.C.</a></td>
     <td>1</td>
   </tr>
   <tr>
-    <td><b>[Umbabarauma](../../times/umbabarauma.md)</b></td>
+    <td><b><a href="../../times/umbabarauma.md">Umbabarauma</a></b></td>
     <td><b>3</b></td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ A Copa foi disputada em jogos de eliminação direta a partir das Quartas de Fin
     <th colspan="8">Disputa pelo 3º lugar</th>
   </tr>
   <tr>
-    <td colspan="6"><b>[Liverpanças FC](../../times/liverpancas.md)</b></td>
+    <td colspan="6"><b><a href="../../times/liverpancas.md">Liverpanças FC</a></b></td>
     <td><b>8</b></td>
   </tr>
   <tr>

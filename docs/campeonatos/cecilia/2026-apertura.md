@@ -75,33 +75,33 @@ A primeira fase consistiu em um turno único onde todas as equipes se enfrentara
     <th colspan="2">Final</th>
   </tr>
   <tr>
-    <td>[1] América de Calo</td>
+    <td>[1] <a href="../../times/america-de-calo.md">América de Calo</a></td>
     <td>1</td>
     <td rowspan="3"></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td><b>[4] Sankara</b></td>
+    <td><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
     <td><b>2</b></td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><b>[4] Sankara</b></td>
+    <td><b>[4] <a href="../../times/sankara.md">Sankara</a></b></td>
     <td><b>3</b></td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td>[2] Estrela Vermelha</td>
+    <td>[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></td>
     <td>2</td>
   </tr>
   <tr>
-    <td><b>[2] Estrela Vermelha</b></td>
+    <td><b>[2] <a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
     <td><b>1</b></td>
   </tr>
   <tr>
-    <td>[3] Linha Esquerda F.C.</td>
+    <td>[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
     <td>0</td>
   </tr>
   <tr>
@@ -111,11 +111,11 @@ A primeira fase consistiu em um turno único onde todas as equipes se enfrentara
     <th colspan="5">Disputa pelo 3º lugar</th>
   </tr>
   <tr>
-    <td colspan="3"><b>[1] América de Calo</b></td>
+    <td colspan="3"><b>[1] <a href="../../times/america-de-calo.md">América de Calo</a></b></td>
     <td><b>4</b></td>
   </tr>
   <tr>
-    <td colspan="3">[3] Linha Esquerda F.C.</td>
+    <td colspan="3">[3] <a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
     <td>0</td>
   </tr>
 </table>

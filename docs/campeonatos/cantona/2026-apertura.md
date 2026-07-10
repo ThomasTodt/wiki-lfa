@@ -58,7 +58,7 @@ O torneio foi disputado em sistema de eliminação direta a partir das Quartas d
     <th colspan="2">Final</th>
   </tr>
   <tr>
-    <td><b>[América de Calo](../../times/america-de-calo.md)</b></td>
+    <td><b><a href="../../times/america-de-calo.md">América de Calo</a></b></td>
     <td><b>0 (pen)</b></td>
     <td rowspan="3"></td>
     <td rowspan="2"></td>
@@ -68,63 +68,63 @@ O torneio foi disputado em sistema de eliminação direta a partir das Quartas d
     <td rowspan="4"></td>
   </tr>
   <tr>
-    <td>[Linha Esquerda F.C.](../../times/linha-esquerda.md)</td>
+    <td><a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></td>
     <td>0</td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>[América de Calo](../../times/america-de-calo.md)</td>
+    <td><a href="../../times/america-de-calo.md">América de Calo</a></td>
     <td>2</td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td><b>[Estrela Vermelha](../../times/Estrela-Vermelha.md)</b></td>
+    <td><b><a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
     <td><b>3</b></td>
   </tr>
   <tr>
-    <td>[Aqui Estamos](../../times/aqui-estamos.md)</td>
+    <td><a href="../../times/aqui-estamos.md">Aqui Estamos</a></td>
     <td>0</td>
-    <td><b>[Estrela Vermelha](../../times/Estrela-Vermelha.md)</b></td>
+    <td><b><a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
     <td><b>5</b></td>
   </tr>
   <tr>
-    <td><b>[Estrela Vermelha](../../times/Estrela-Vermelha.md)</b></td>
+    <td><b><a href="../../times/Estrela-Vermelha.md">Estrela Vermelha</a></b></td>
     <td><b>3</b></td>
-    <td>[Azulão Esporte Clube](../../times/azulão.md)</td>
+    <td><a href="../../times/azulão.md">Azulão Esporte Clube</a></td>
     <td>2</td>
   </tr>
   <tr>
     <td colspan="8"></td>
   </tr>
   <tr>
-    <td><b>[Sankara](../../times/sankara.md)</b></td>
+    <td><b><a href="../../times/sankara.md">Sankara</a></b></td>
     <td><b>6</b></td>
     <td rowspan="3"></td>
     <td rowspan="2"></td>
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td>[9DEDOS](../../times/9-dedos.md)</td>
+    <td><a href="../../times/9-dedos.md">9DEDOS</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td>[Sankara](../../times/sankara.md)</td>
+    <td><a href="../../times/sankara.md">Sankara</a></td>
     <td>0</td>
   </tr>
   <tr>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td><b>[Azulão Esporte Clube](../../times/azulão.md)</b></td>
+    <td><b><a href="../../times/azulão.md">Azulão Esporte Clube</a></b></td>
     <td><b>1</b></td>
   </tr>
   <tr>
-    <td><b>[Azulão Esporte Clube](../../times/azulão.md)</b></td>
+    <td><b><a href="../../times/azulão.md">Azulão Esporte Clube</a></b></td>
     <td><b>3</b></td>
   </tr>
   <tr>
-    <td>[Imperial RSports](../../times/imperial.md)</td>
+    <td><a href="../../times/imperial.md">Imperial RSports</a></td>
     <td>2</td>
   </tr>
   <tr>
@@ -134,11 +134,11 @@ O torneio foi disputado em sistema de eliminação direta a partir das Quartas d
     <th colspan="8">Disputa pelo 3º lugar</th>
   </tr>
   <tr>
-    <td colspan="6"><b>[América de Calo](../../times/america-de-calo.md)</b></td>
+    <td colspan="6"><b><a href="../../times/america-de-calo.md">América de Calo</a></b></td>
     <td><b>6</b></td>
   </tr>
   <tr>
-    <td colspan="6">[Sankara](../../times/sankara.md)</td>
+    <td colspan="6"><a href="../../times/sankara.md">Sankara</a></td>
     <td>2</td>
   </tr>
 </table>
