@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="delas" src="https://github.com/user-attachments/assets/83bfc642-c3da-45e6-b4d4-bc4dfef625f4" />
+
 O Delas Futebol Clube nasceu em 2015 com a missão de promover o futebol para todas! 💜⚽ Ao longo dos anos, conquistamos respeito e credibilidade no cenário esportivo de Curitiba, tornando-nos referência na promoção de eventos e na formação de equipes femininas.
 
 🌟 Nossas cores: Roxo e preto
