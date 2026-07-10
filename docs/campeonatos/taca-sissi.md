@@ -14,13 +14,13 @@ Paz entre nós, guerra aos senhores!
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [2025-A](../temporadas/2025/apertura.md) | **[São Bento](../times/sao-bento.md)** | x | [Delas](../times/delas.md) | [Matriarcado](../times/matriarcado.md) | x | [Ginga](../times/ginga.md) |
+| [2025-A](./sissi/2025-apertura.md) | **[São Bento](../times/sao-bento.md)** | V x D | [Delas](../times/delas.md) | [Matriarcado](../times/matriarcado.md) | V x D | [Ginga](../times/ginga.md) |
 
 ## Desempenho por Equipe
 
 | Equipe | Títulos | Vices | Terceiros | Quartos |
 | :--- | :---: | :---: | :---: | :---: |
-| [São Bento](../times/sao-bento.md) | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 | 0 |
-| [Delas](../times/delas.md) | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 | 0 |
-| [Matriarcado](../times/matriarcado.md) | 0 | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) | 0 |
-| [Ginga](../times/ginga.md) | 0 | 0 | 0 | 1 ([2025-A](../temporadas/2025/apertura.md)) |
+| [São Bento](../times/sao-bento.md) | 1 ([2025-A](./sissi/2025-apertura.md)) | 0 | 0 | 0 |
+| [Delas](../times/delas.md) | 0 | 1 ([2025-A](./sissi/2025-apertura.md)) | 0 | 0 |
+| [Matriarcado](../times/matriarcado.md) | 0 | 0 | 1 ([2025-A](./sissi/2025-apertura.md)) | 0 |
+| [Ginga](../times/ginga.md) | 0 | 0 | 0 | 1 ([2025-A](./sissi/2025-apertura.md)) |

@@ -43,7 +43,7 @@
 
 A **Taça Wladimir Rodrigues de 2025 – Clausura** foi a 2ª edição do campeonato de segunda divisão da LFA (Liga de Futebol Antifascista).
 
-O **Linha Esquerda F.C.** sagrou-se campeão do torneio após vencer o **América de Calo** por 2 a 0 na grande decisão.
+O **Linha Esquerda F.C.** sagrou-se campeão do torneio após vencer o **América de Calo** nos pênaltis (8 a 7) após empate por 0 a 0 na grande decisão.
 
 ## Primeira Fase
 
@@ -109,11 +109,11 @@ Quadrangular de turno único com os classificados do 3º ao 6º lugar. Os dois m
 </tr>
 <tr>
 <td style="padding: 8px; border: 1px solid #d8dee4;"><a href="../../times/america-de-calo.md">América de Calo</a></td>
-<td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold;">0</td>
+<td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 60px; font-weight: bold;">0 (7 p)</td>
 </tr>
 <tr>
 <td style="padding: 8px; border: 1px solid #d8dee4;"><b><a href="../../times/linha-esquerda.md">Linha Esquerda F.C.</a></b></td>
-<td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 40px; font-weight: bold; background-color: #e6ffec;">2</td>
+<td style="padding: 8px; border: 1px solid #d8dee4; text-align: center; width: 60px; font-weight: bold; background-color: #e6ffec;">0 (8 p)</td>
 </tr>
 </table>
 </td>
