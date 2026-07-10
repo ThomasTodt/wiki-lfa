@@ -20,6 +20,21 @@
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2011 (Origem em 2005, refundado em 2016)</td>
     </tr>
+<tr>
+      <td colspan="2" align="center" style="padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <div style="text-align: center; font-family: sans-serif; font-size: 0.9em;">
+          <strong style="display: block; margin-bottom: 5px;">Uniforme titular</strong>
+          <div style="display: inline-block; line-height: 0; font-size: 0;">
+            <img src="https://github.com/user-attachments/assets/147e9a6a-55dd-4849-a8aa-97b481626918" width="31" height="59" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Manga Esquerda" /><img src="https://github.com/user-attachments/assets/9545daad-2ecc-4523-86b2-12fb214f7c10" width="38" height="59" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Camisa" /><img src="https://github.com/user-attachments/assets/a8de3b1c-3cdf-4310-8805-2daed123b3ea" width="31" height="59" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Manga Direita" /><br><img src="https://github.com/user-attachments/assets/0a632d6c-ddb5-425a-922e-2f0c20c46220" width="100" height="35" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Calção" /><br><img src="https://github.com/user-attachments/assets/7606a375-5e53-4518-8db5-9102a09cbc34" width="100" height="25" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Meias" />
+          </div>
+        </div>
+      </td>
+    </tr>
+            </tbody>
+          </table>
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
