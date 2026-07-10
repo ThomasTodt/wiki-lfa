@@ -1,6 +1,7 @@
 
 <img width="150" height="150" alt="estrela" src="https://github.com/user-attachments/assets/88000cda-068f-40e3-851a-b2e1af57ef79" />
 
+**Clube de Futebol Estrela Vermelha**
 
 Clube de Futebol Estrela Vermelha, alinhado politicamente à esquerda e situado na Curitiba Oriental.
 
