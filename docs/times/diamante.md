@@ -1,4 +1,4 @@
-# 9DEDOS
+# DIAMANTE FUTEBOL CLUBE
 
 <table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
   <thead>
@@ -22,8 +22,6 @@
     </tr>
   </tbody>
 </table>
-
-**DIAMANTE FUTEBOL CLUBE**
 
 Fundado em 2026, o Diamante Futebol Clube carrega em seu nome uma homenagem a Leônidas da Silva, o eterno Diamante Negro, um dos maiores ídolos da história do futebol brasileiro. Sua trajetória de talento, criatividade e superação inspira a identidade do nosso clube.
 
