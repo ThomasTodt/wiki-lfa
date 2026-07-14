@@ -1,6 +1,31 @@
-A Taça Wladimir Rodrigues representa a segunda divisão da [LFA](../Home.md)
+# Taça Wladimir Rodrigues
 
-A Wladimir Rodrigues é mais do que uma competição de futebol; é ums homenagem à luta por justiça, igualdade e democracia. Nomeado em homenagem a Wladimir Rodrigues, ex-lateral do Corinthians e um dos símbolos da Democracia Corinthiana, o torneio celebra seu compromisso com a liberdade dentro e fora dos gramados.
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Taça Wladimir Rodrigues</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="../images/logo_wladimir.jpg" width="150" alt="Logo da Taça Wladimir Rodrigues" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Segunda Divisão</td>
+    </tr>
+  </tbody>
+</table>
+
+A **Taça Wladimir Rodrigues** representa a segunda divisão da [LFA](../Home.md).
+
+A Wladimir Rodrigues é mais do que uma competição de futebol; é uma homenagem à luta por justiça, igualdade e democracia. Nomeado em homenagem a Wladimir Rodrigues, ex-lateral do Corinthians e um dos símbolos da Democracia Corinthiana, o torneio celebra seu compromisso com a liberdade dentro e fora dos gramados.
 
 Wladimir não foi apenas um dos jogadores mais vitoriosos da história do clube, mas também um defensor ativo da redemocratização do Brasil, usando sua voz e seu futebol para questionar a ditadura e fortalecer a participação política no esporte. Inspirado nesses valores, o campeonato reafirma o futebol como ferramenta de resistência, promovendo um jogo antifascista, inclusivo e comprometido com a transformação social.
 

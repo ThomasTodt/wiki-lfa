@@ -39,3 +39,26 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
   * [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 1 ([2023-A](../temporadas/2023/apertura.md))
   * [Copa Carlos Caszely](../campeonatos/copa-carlos-caszely.md): 1 ([2025-C](../temporadas/2025/clausura.md))
   * [Taça Cecília](../campeonatos/taca-cecilia.md): 1 ([2024-C](../temporadas/2024/clausura.md))
+
+## Elenco Atual
+
+* Wainer (12) (Goleiro)
+* Ochoa (1) (Goleiro)
+* Rafa Marques (5)
+* Matheus Gimenes (3)
+* Alisson (21)
+* Kasai (14)
+* Matheus Bahia (24)
+* Ander (6)
+* Renan (10)
+* Titos (8)
+* Helton (20)
+* Gui
+* James (13)
+* Dalton (11)
+* Felipe (2)
+* Luizão
+* Triska (7)
+* André Soneka (19)
+* Thomas
+* Wesley

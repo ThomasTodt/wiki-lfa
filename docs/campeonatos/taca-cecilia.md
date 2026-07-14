@@ -1,4 +1,33 @@
-A Taça Cecília é um campeonato de duas fases, e representa a primeira divisão da [LFA](../Home.md). O nome homenageia
+# Taça Cecília
+
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Taça Cecília</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="../images/logo_cecilia.jpg" width="150" alt="Logo da Taça Cecília" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Primeira Divisão</td>
+    </tr>
+  </tbody>
+</table>
+
+A **Taça Cecília** é o campeonato de primeira divisão da [LFA](../Home.md). O nome homenageia a **Colônia Cecília**, uma comuna experimental baseada em premissas anarquistas fundada em 1890 no município de Palmeira, Paraná, por um grupo de libertários mobilizados pelo escritor e agrônomo italiano Giovanni Rossi (1859-1943).
+
+A fundação da Colônia Cecília foi a primeira tentativa efetiva de implantação do ideário anarquista no Brasil. Rossi, ideólogo e escritor anarquista, adepto da "acracia", foi instigado pelo músico brasileiro Carlos Gomes a procurar D. Pedro II com o propósito de instaurar uma comunidade capaz de propulsionar um "novo tempo", uma utopia baseada no trabalho, na vida e no amor libertário. A Taça Cecília celebra esses valores de cooperação, solidariedade e liberdade nos gramados.
+
+Paz entre nós, guerra aos senhores!
 
 ## Histórico
 

@@ -1,4 +1,44 @@
+# Copa Eric Cantona
 
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Copa Eric Cantona</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="../images/logo_cantona.jpg" width="150" alt="Logo da Copa Eric Cantona" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa / Torneio LFA</td>
+    </tr>
+  </tbody>
+</table>
+
+A **Copa Eric Cantona** é uma competição de futebol de 7 organizada pela LFA.
+
+O nome do campeonato homenageia Eric Cantona, personalidade que não foi apenas um jogador de futebol; ele se tornou um verdadeiro símbolo de atitude e paixão dentro e fora dos campos. Com seu estilo irreverente, personalidade forte e habilidade inconfundível, conquistou os corações de milhões de fãs ao redor do mundo.
+
+Cantona iniciou sua carreira na França, mas foi no Manchester United que sua lenda se consolidou. Chegando ao clube inglês em 1992, ele imediatamente se destacou, sendo um dos responsáveis pela revolução que levou o United a conquistar uma série de títulos, incluindo quatro campeonatos da Premier League e a histórica FA Cup de 1996. Sua presença em campo era única: um líder nato, com uma visão de jogo impressionante, passes geniais e gols inesquecíveis.
+
+Futebolista, ator e diretor, Cantona é um artista em todas as funções que passou. Em campo Cantona faz parte de um seleto grupo de ídolos do Manchester United, além de outros clubes de Inglaterra e França. O craque também defendeu a seleção francesa, não chegou a participar da Copa do Mundo, mas ostenta números invejáveis e títulos expressivos. Cantona deixou os gramados cedo, aos 30 anos, e um legado de rebeldia simbolizado pela famosa voadora no torcedor que preferiu a ele gritos xenófobos, episódio inclusive que o mesmo já afirmou em diversas ocasiões que não se arrepende em absolutamente nada, a não ser poder ter sido mais forte.
+
+Grande crítico abertamente a grupos de extrema direita, também fez duras críticas a Deschamps, então treinador da seleção francesa, o acusando de racismo nas não convocações de Benzema e Hatem Ben Arfa, ambos de origem africana, em 2016. O então ex-jogador sempre defendeu a imigração e as causas sociais. Em 2012, chegou a anunciar que concorreria à presidência da França, porém foi mais uma jogada do craque para chamar a atenção para a falta de moradia aos mais pobres.
+
+Em suma, Eric Cantona como jogador, artista e ativista é um cara que nos inspira, uma figura que merece todo o respeito dentro e fora dos gramados, por essa razão nomeamos nossa Copa em sua homenagem. Este campeonato em sua homenagem é uma forma de reconhecer não apenas o grande jogador que foi, mas também a inspiração que Cantona deixou para as futuras gerações de atletas e fãs. Ele mostrou que, no futebol, o talento pode ser acompanhado de uma personalidade marcante, que não teme se destacar e fazer história.
+
+Nossa Copa representa a importância de jogar com coração, coragem e, acima de tudo, sem esquecer das mazelas trazidas pelo capitalismo.
+
+Eric Cantona, presente!
+Paz entre nós, guerra aos senhores!
 
 ## Histórico
 

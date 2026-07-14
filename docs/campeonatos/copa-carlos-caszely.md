@@ -1,4 +1,31 @@
-Carlos Caszely, o futebolista chileno que desafiou a ditadura de Pinochet, era um jogador rápido conhecido como "el rey del metro cuadrado". Ele se destacou no Colo-Colo e transferiu-se para o futebol espanhol. Fora de campo, Caszely nunca escondeu suas convicções políticas de esquerda, apoiando a Unidade Popular e expressando abertamente seu voto e defesa da eleição de Salvador Allende nas eleições de 1970.
+# Copa Carlos Caszely
+
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Copa Carlos Caszely</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="../images/logo_caszely.jpg" width="150" alt="Logo da Copa Carlos Caszely" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa / Torneio LFA</td>
+    </tr>
+  </tbody>
+</table>
+
+A **Copa Carlos Caszely** é uma das competições da LFA.
+
+**Carlos Caszely**, o futebolista chileno que desafiou a ditadura de Pinochet, era um jogador rápido conhecido como "el rey del metro quadrado". Ele se destacou no Colo-Colo e transferiu-se para o futebol espanhol. Fora de campo, Caszely nunca escondeu suas convicções políticas de esquerda, apoiando a Unidade Popular e expressando abertamente seu voto e defesa da eleição de Salvador Allende nas eleições de 1970.
 
 Jogando pelos espanhóis do Levante e Espanyol, Caszely integrou a seleção chilena que se classificou para a Copa do Mundo de 1974. Antes da equipe chilena embarcar para a Copa na Alemanha, o craque chileno se recusou a cumprimentar o ditador Pinochet, responsável por um golpe de Estado que levou ao assassinato do presidente democraticamente eleito e declaradamente socialista, Salvador Allende. No entanto, após esse gesto, sua mãe foi torturada e violentada pelo governo tirânico de Pinochet.
 

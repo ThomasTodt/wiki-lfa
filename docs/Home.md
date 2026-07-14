@@ -1,8 +1,41 @@
 # Liga de Futebol Antifascista (LFA)
 
-![LFA Logo](https://github.com/user-attachments/assets/35204e0a-e169-4491-8d65-efb936430ce3)
+<table align="right" width="280" style="margin-left: 20px; margin-bottom: 20px; border: 1px solid #d8dee4; border-collapse: collapse; font-family: sans-serif;">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th colspan="2" style="padding: 10px; border: 1px solid #d8dee4; text-align: center; font-size: 1.1em;">Liga de Futebol Antifascista (LFA)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <img src="https://github.com/user-attachments/assets/35204e0a-e169-4491-8d65-efb936430ce3" width="150" alt="Logo LFA" style="display: block; margin: 0 auto;" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Tipo</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Liga de futebol amador (Fut7)</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2022</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Sede</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Curitiba, Paraná, Brasil</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Lema</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Paz entre nós, guerra aos senhores</td>
+    </tr>
+  </tbody>
+</table>
 
-A **Liga de Futebol Antifascista (LFA)** é...
+A **Liga de Futebol Antifascista (LFA)** foi criada com o objetivo de reunir diferentes setores da classe trabalhadora em torno da prática do futebol de 7. Defendendo os valores do Socialismo e da camaradagem, a LFA tem o intuito de construir um ambiente agradável para a prática do desporto mais popular do Brasil, zelando não só para a prática do futebol, mas também para unir pessoas e times de forma plural com base no respeito dentro e fora de campo.
+
+As equipes reunidas em nossa Liga têm consciência do período de retrocesso representado pelos governos de Bolsonaro e Ratinho Jr, uma vez que ambos atacam a educação, direitos trabalhistas e contribuem para a exclusão da juventude à cidadania e direitos como o acesso ao lazer e possibilidade de prática esportiva. Desta forma a Liga existe com objetivo inclusivo, para agregar nossa classe tão atacada pelo poder público, sem objetivos lucrativos ou de promoção pessoal ou coletiva.
+
+Paz entre nós, guerra aos senhores.
 
 Para contribuir com esta wiki, clique [aqui](../README.md)
 
