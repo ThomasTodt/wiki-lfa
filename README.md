@@ -1,6 +1,6 @@
 # Wiki da Liga de Futebol Antifascista (LFA)
 
-Bem-vindo(a) à Wiki oficial da [**LFA**](./docs/Home.md) (clique no link para acessar a página principal da LFA)! Este espaço é dedicado a registrar a história, os times, os campeonatos e os resultados da nossa liga.
+Bem-vindo(a) à Wiki da [**LFA**](./docs/Home.md) (clique no link para acessar a página principal da LFA)! Este espaço é dedicado a registrar a história, os times, os campeonatos e os resultados da nossa liga.
 
 Como a nossa Wiki é mantida de forma colaborativa, qualquer pessoa pode ajudar a atualizar informações, corrigir erros de digitação ou adicionar novos detalhes sobre os times. Você pode fazer tudo direto pelo seu navegador de internet, sem instalar nada no seu computador.
 
