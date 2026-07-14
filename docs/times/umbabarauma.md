@@ -60,5 +60,5 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 * Luizão
 * Triska (7)
 * André Soneka (19)
-* Thomas
+* Thomas (4)
 * Wesley
