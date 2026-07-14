@@ -19,7 +19,7 @@
   </tbody>
 </table>
 
-A **Copa Foice** é uma competição da [LFA](../../Home.md).
+A **Copa Foice** é uma competição da [LFA](../Home.md).
 
 Paz entre nós, guerra aos senhores!
 
