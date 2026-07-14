@@ -41,8 +41,8 @@ Para contribuir com esta wiki, clique [aqui](../README.md)
 
 ---
 
-<details>
-<summary><h2>Equipes</h2></summary>
+<details open>
+<summary><strong style="font-size: 1.5em;">Equipes</strong></summary>
 
 ### Membros Ativos
 * <img src="https://github.com/user-attachments/assets/498964ac-815b-460b-80bd-066e7f2c8761" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [9-Dedos](./times/9-dedos.md)
@@ -87,8 +87,8 @@ Para contribuir com esta wiki, clique [aqui](../README.md)
 
 ---
 
-<details>
-<summary><h2>Campeonatos</h2></summary>
+<details open>
+<summary><strong style="font-size: 1.5em;">Campeonatos</strong></summary>
 
 * [Taça Cecília](./campeonatos/taca-cecilia.md)
 * [Taça Wladimir Rodrigues](./campeonatos/taca-wladimir-rodrigues.md)
@@ -106,8 +106,8 @@ Para contribuir com esta wiki, clique [aqui](../README.md)
 
 ---
 
-<details>
-<summary><h2>Temporadas</h2></summary>
+<details open>
+<summary><strong style="font-size: 1.5em;">Temporadas</strong></summary>
 
 ### 2022
 * [2022 Apertura](./temporadas/2022/apertura.md)
