@@ -37,7 +37,7 @@ As equipes reunidas em nossa Liga têm consciência do período de retrocesso re
 
 Paz entre nós, guerra aos senhores.
 
-Para contribuir com esta wiki, clique [aqui](../README.md)
+**Para contribuir com esta wiki, clique [aqui](../README.md)**
 
 ---
 
