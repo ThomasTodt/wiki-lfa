@@ -33,7 +33,11 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/Estrela-Vermelha.md">Estrela Vermelha</a>, <a href="../times/imperial.md">Imperial</a> (1 título cada)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <a href="../times/Estrela-Vermelha.md">Estrela Vermelha</a><br>
+        <a href="../times/imperial.md">Imperial</a><br>
+        <small>(1 título cada)</small>
+      </td>
     </tr>
   </tbody>
 </table>

@@ -54,23 +54,23 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 
 | N | Pos. | Nome |
 | :---: | :---: | :--- |
-| 12 | G | Wainer |
 | 1 | G | Ochoa |
-| 5 | Z | Rafa Marques |
+| 12 | G | Wainer |
 | 3 | Z | Matheus Ximendes |
-| 21 | Z | Alisson |
-| 14 | ? | Kasai |
-| 24 | L | Matheus Bahia |
-| 6 | M | Ander |
-| 10 | M | Renan |
-| 8 | M | Titos |
+| 4 | Z | Thomas |
+| 5 | Z | Rafa Marques |
 | 20 | Z | Helton |
-| - | ? | Gui |
-| 13 | L | James |
+| 21 | Z | Alisson |
+| 6 | M | Ander |
+| 8 | M | Titos |
+| 10 | M | Renan |
 | 11 | L | Dalton |
-| 2 | ? | Felipe |
-| - | A | Luizão |
+| 13 | L | James |
+| 24 | L | Matheus Bahia |
+| - | L | Wesley |
 | 7 | A | Triska |
 | 19 | A | André Soneka |
-| - | Z | Thomas |
-| - | ? | Wesley |
+| 2 | ? | Felipe |
+| 14 | ? | Kasai |
+| - | A | Luizão |
+| - | ? | Gui |

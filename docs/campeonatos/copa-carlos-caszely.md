@@ -38,7 +38,11 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/deportivo-oriental.md">Deportivo Oriental</a>, <a href="../times/teto-preto.md">Teto Preto</a> (2 títulos cada)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <a href="../times/deportivo-oriental.md">Deportivo Oriental</a><br>
+        <a href="../times/teto-preto.md">Teto Preto</a><br>
+        <small>(2 títulos cada)</small>
+      </td>
     </tr>
   </tbody>
 </table>
