@@ -45,7 +45,7 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 * Wainer (12) (Goleiro)
 * Ochoa (1) (Goleiro)
 * Rafa Marques (5)
-* Matheus Gimenes (3)
+* Matheus Ximendes (3)
 * Alisson (21)
 * Kasai (14)
 * Matheus Bahia (24)
