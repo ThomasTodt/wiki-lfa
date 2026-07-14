@@ -70,7 +70,7 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 | - | L | Wesley |
 | 7 | A | Triska |
 | 19 | A | André Soneka |
+| - | A | Luizão |
 | 2 | ? | Felipe |
 | 14 | ? | Kasai |
-| - | A | Luizão |
 | - | ? | Gui |
