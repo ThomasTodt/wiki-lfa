@@ -25,6 +25,15 @@ A Wladimir Rodrigues é mais do que uma competição de futebol; é uma homenage
 
 Wladimir não foi apenas um dos jogadores mais vitoriosos da história do clube, mas também um defensor ativo da redemocratização do Brasil, usando sua voz e seu futebol para questionar a ditadura e fortalecer a participação política no esporte. Inspirado nesses valores, o campeonato reafirma o futebol como ferramenta de resistência, promovendo um jogo antifascista, inclusivo e comprometido com a transformação social.
 
+## Formato
+
+O campeonato é disputado nas seguintes etapas:
+1. **Fase de Pontos Corridos**: As equipes jogam entre si nessa fase de classificação.
+2. **Quadrangular e Playoff**: 
+   * As equipes que terminarem do **3º ao 6º lugar** disputam um quadrangular.
+   * Os classificados desse quadrangular avançam para enfrentar o **top 2 (1º e 2º colocados)** da fase inicial em uma fase eliminatória (**mata-mata**).
+3. **Acesso**: Os **2 finalistas** garantem o acesso direto para a primeira divisão ([Taça Cecília](./taca-cecilia.md)).
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

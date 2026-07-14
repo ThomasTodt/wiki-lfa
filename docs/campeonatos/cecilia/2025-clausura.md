@@ -8,6 +8,11 @@
 </thead>
 <tbody>
 <tr>
+<td colspan="2" align="center" style="text-align: center; padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+<img src="../../images/logo_cecilia.jpg" width="150" alt="Logo" style="display: block; margin: 0 auto;" />
+</td>
+</tr>
+<tr>
 <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 40%;">Campeão</td>
 <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><b><a href="../../times/imperial.md">Imperial RSports</a></b> (1º título)</td>
 </tr>

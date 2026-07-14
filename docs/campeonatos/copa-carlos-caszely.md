@@ -28,6 +28,12 @@ Jogando pelos espanhóis do Levante e Espanyol, Caszely integrou a seleção chi
 Após a Copa, Caszely enfrentou a não convocação devido à interferência do ditador, mas nunca renegou aqueles que se inspiravam nele dentro e fora do campo. Carlos Caszely foi um craque dentro de campo e igualmente habilidoso fora dele, enfrentando corajosamente as consequências de suas convicções. Assim como aqueles que sofreram os horrores da Ditadura militar chilena, ele se tornou uma grande referência para o futebol chileno e latino-americano, sendo um símbolo na luta antifascista. Para nós, da LFA, ele é um exemplo de habilidade nos gramados e comprometimento com as causas sociais.
 Paz entre nós, guerra aos senhores!
 
+## Formato
+
+A competição é disputada por 8 equipes no formato de mata-mata, sendo composta por:
+* Os **últimos 4 colocados** da [Taça Cecília](./taca-cecilia.md).
+* O **top 4 (4 melhores colocados)** da [Taça Wladimir Rodrigues](./taca-wladimir-rodrigues.md).
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

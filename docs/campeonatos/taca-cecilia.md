@@ -25,6 +25,12 @@ A fundação da Colônia Cecília foi a primeira tentativa efetiva de implantaç
 
 Paz entre nós, guerra aos senhores!
 
+## Formato
+
+O campeonato é disputado no sistema de **pontos corridos** na fase inicial. Ao término dessa fase:
+* Os **4 melhores colocados** se classificam para a fase eliminatória (**mata-mata**) para decidir o campeão.
+* Os **2 últimos colocados** são rebaixados para a [Taça Wladimir Rodrigues](./taca-wladimir-rodrigues.md).
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

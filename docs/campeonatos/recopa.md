@@ -16,6 +16,12 @@
 
 A **Recopa** é um campeonato disputado entre os campeões da [Copa Eric Cantona](./copa-eric-cantona.md) e da [Copa Carlos Caszely](./copa-carlos-caszely.md).
 
+## Formato
+
+A competição é disputada em **jogo único** na decisão pelo título entre:
+* O campeão da [Copa Eric Cantona](./copa-eric-cantona.md).
+* O campeão da [Copa Carlos Caszely](./copa-carlos-caszely.md).
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

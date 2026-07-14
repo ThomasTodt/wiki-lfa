@@ -36,6 +36,10 @@ Nossa Copa representa a importância de jogar com coração, coragem e, acima de
 Eric Cantona, presente!
 Paz entre nós, guerra aos senhores!
 
+## Formato
+
+A competição é disputada em formato de mata-mata pelas equipes que terminam no **top 8 da Taça Cecília** na temporada correspondente.
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

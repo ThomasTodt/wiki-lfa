@@ -16,6 +16,12 @@
 
 A **Supertaça** é um campeonato disputado entre os campeões da [Taça Cecília](./taca-cecilia.md) e da [Taça Wladimir Rodrigues](./taca-wladimir-rodrigues.md).
 
+## Formato
+
+A competição é disputada em **jogo único** na decisão pelo título entre:
+* O campeão da [Taça Cecília](./taca-cecilia.md).
+* O campeão da [Taça Wladimir Rodrigues](./taca-wladimir-rodrigues.md).
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

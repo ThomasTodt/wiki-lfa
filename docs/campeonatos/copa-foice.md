@@ -23,6 +23,12 @@ A **Copa Foice** é uma competição da LFA.
 
 Paz entre nós, guerra aos senhores!
 
+## Formato
+
+A competição é disputada em formato de eliminatórias pelas **últimas 4 equipes da Taça Wladimir Rodrigues** da temporada correspondente, sendo composta por:
+* As **2 equipes eliminadas diretamente** (últimas colocadas) na fase de pontos corridos.
+* As **2 equipes eliminadas na fase do quadrangular**.
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |

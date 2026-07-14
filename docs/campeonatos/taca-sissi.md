@@ -31,6 +31,10 @@ Por essa razão, Sissi nos inspira: por sua habilidade dentro de campo, sua cora
 
 Paz entre nós, guerra aos senhores!
 
+## Formato
+
+O torneio é disputado em uma fase inicial de **pontos corridos**, seguida por uma fase eliminatória (**mata-mata**) para definir as campeãs.
+
 ## Histórico
 
 | Ed. | Campeão | Placar | Vice | Terceiro | Placar | Quarto |
