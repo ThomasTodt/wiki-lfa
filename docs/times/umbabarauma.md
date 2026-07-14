@@ -52,23 +52,23 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 
 | N | Pos. | Nome |
 | :---: | :---: | :--- |
-| 12 | GK | Wainer |
-| 1 | GK | Ochoa |
-| 5 | Linha | Rafa Marques |
-| 3 | Linha | Matheus Gimenes |
-| 21 | Linha | Alisson |
-| 14 | Linha | Kasai |
-| 24 | Linha | Matheus Bahia |
-| 6 | Linha | Ander |
-| 10 | Linha | Renan |
-| 8 | Linha | Titos |
-| 20 | Linha | Helton |
-| - | Linha | Gui |
-| 13 | Linha | James |
-| 11 | Linha | Dalton |
-| 2 | Linha | Felipe |
-| - | Linha | Luizão |
-| 7 | Linha | Triska |
-| 19 | Linha | André Soneka |
-| - | Linha | Thomas |
-| - | Linha | Wesley |
+| 12 | G | Wainer |
+| 1 | G | Ochoa |
+| 5 | Z | Rafa Marques |
+| 3 | Z | Matheus Ximendes |
+| 21 | Z | Alisson |
+| 14 | ? | Kasai |
+| 24 | L | Matheus Bahia |
+| 6 | M | Ander |
+| 10 | M | Renan |
+| 8 | M | Titos |
+| 20 | Z | Helton |
+| - | ? | Gui |
+| 13 | L | James |
+| 11 | L | Dalton |
+| 2 | ? | Felipe |
+| - | A | Luizão |
+| 7 | A | Triska |
+| 19 | A | André Soneka |
+| - | Z | Thomas |
+| - | ? | Wesley |
