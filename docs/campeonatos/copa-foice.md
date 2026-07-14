@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa / Torneio LFA</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Edições</td>
@@ -43,7 +43,7 @@
   </tbody>
 </table>
 
-A **Copa Foice** é uma competição da LFA.
+A **Copa Foice** é uma competição da [LFA](../Home.md).
 
 Paz entre nós, guerra aos senhores!
 
