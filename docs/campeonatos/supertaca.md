@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../Home.md">LFA</a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
@@ -25,15 +25,15 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Azulão](../times/azulão.md) ([2025-C](./supertaca/2025-clausura.md))</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/azulão.md">Azulão</a> (<a href="./supertaca/2025-clausura.md">2025-C</a>)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Imperial](../times/imperial.md) ([2026-A](./supertaca/2026-apertura.md))</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/imperial.md">Imperial</a> (<a href="./supertaca/2026-apertura.md">2026-A</a>)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Azulão](../times/azulão.md), [Imperial](../times/imperial.md) (1 título cada)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/azulão.md">Azulão</a>, <a href="../times/imperial.md">Imperial</a> (1 título cada)</td>
     </tr>
   </tbody>
 </table>

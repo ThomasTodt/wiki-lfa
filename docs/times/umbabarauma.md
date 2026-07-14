@@ -24,7 +24,9 @@
       <td colspan="2" align="center" style="padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
         <div style="text-align: center; font-family: sans-serif; font-size: 0.9em;">
           <strong style="display: block; margin-bottom: 5px;">Uniforme titular</strong>
-          <img src="../images/umba_uniforme.png" width="100" alt="Uniforme titular" style="display: block; margin: 0 auto;" />
+          <div style="display: inline-block; line-height: 0; font-size: 0;">
+            <img src="../images/umba_uniforme.png" width="100" style="margin: 0; padding: 0; border: none; vertical-align: top;" alt="Uniforme titular" />
+          </div>
         </div>
       </td>
     </tr>

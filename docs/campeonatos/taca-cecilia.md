@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../Home.md">LFA</a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
@@ -30,15 +30,15 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Pé-de-pano](../times/pe-de-pano.md) ([2022-A](../temporadas/2022/apertura.md))</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/pe-de-pano.md">Pé-de-pano</a> (<a href="../temporadas/2022/apertura.md">2022-A</a>)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Sankara](../times/sankara.md) ([2026-A](./cecilia/2026-apertura.md))</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/sankara.md">Sankara</a> (<a href="./cecilia/2026-apertura.md">2026-A</a>)</td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Guairacá](../times/guairaca.md) (4 títulos)</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../times/guairaca.md">Guairacá</a> (4 títulos)</td>
     </tr>
   </tbody>
 </table>
