@@ -13,8 +13,32 @@
       </td>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa / Torneio LFA</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Edições</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">1</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Times</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">4</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Paulo Freire](../times/paulo-freire.md) ([2026-A](./foice/2026-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Paulo Freire](../times/paulo-freire.md) ([2026-A](./foice/2026-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Paulo Freire](../times/paulo-freire.md) (1 título)</td>
     </tr>
   </tbody>
 </table>

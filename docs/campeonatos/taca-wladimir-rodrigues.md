@@ -13,8 +13,32 @@
       </td>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Segunda Divisão</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Edições</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">3</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Times</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">8</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Azulão](../times/azulão.md) ([2025-A](./wladimir/2025-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Umbabarauma](../times/umbabarauma.md) ([2026-A](./wladimir/2026-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Azulão](../times/azulão.md), [Linha Esquerda](../times/linha-esquerda.md), [Umbabarauma](../times/umbabarauma.md) (1 título cada)</td>
     </tr>
   </tbody>
 </table>

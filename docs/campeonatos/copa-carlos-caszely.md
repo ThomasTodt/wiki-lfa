@@ -13,8 +13,32 @@
       </td>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Copa / Torneio LFA</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Edições</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">9</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Times</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">8</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Resistência](../times/resistencia-alviverde.md) ([2022-A](../temporadas/2022/apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Deportivo Oriental](../times/deportivo-oriental.md) ([2026-A](./caszely/2026-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Deportivo Oriental](../times/deportivo-oriental.md), [Teto Preto](../times/teto-preto.md) (2 títulos cada)</td>
     </tr>
   </tbody>
 </table>

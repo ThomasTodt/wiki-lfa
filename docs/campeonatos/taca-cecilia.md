@@ -13,8 +13,32 @@
       </td>
     </tr>
     <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[LFA](../Home.md)</td>
+    </tr>
+    <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">Primeira Divisão</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Edições</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">9</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Times</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">12</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Primeiro vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Pé-de-pano](../times/pe-de-pano.md) ([2022-A](../temporadas/2022/apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Último vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Sankara](../times/sankara.md) ([2026-A](./cecilia/2026-apertura.md))</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Maior vencedor</td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">[Guairacá](../times/guairaca.md) (4 títulos)</td>
     </tr>
   </tbody>
 </table>

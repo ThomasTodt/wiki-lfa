@@ -20,6 +20,14 @@
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Fundação</td>
       <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;">2022</td>
     </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 15px; border: 1px solid #d8dee4; background-color: #ffffff;">
+        <div style="text-align: center; font-family: sans-serif; font-size: 0.9em;">
+          <strong style="display: block; margin-bottom: 5px;">Uniforme titular</strong>
+          <img src="../images/umba_uniforme.png" width="100" alt="Uniforme titular" style="display: block; margin: 0 auto;" />
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -42,23 +50,25 @@ Alquimistas da bola, feiticeiros de Santa Kaya e a Deusa música um dia abençoa
 
 ## Elenco Atual
 
-* Wainer (12) (Goleiro)
-* Ochoa (1) (Goleiro)
-* Rafa Marques (5)
-* Matheus Ximendes (3)
-* Alisson (21)
-* Kasai (14)
-* Matheus Bahia (24)
-* Ander (6)
-* Renan (10)
-* Titos (8)
-* Helton (20)
-* Gui
-* James (13)
-* Dalton (11)
-* Felipe (2)
-* Luizão
-* Triska (7)
-* André Soneka (19)
-* Thomas (4)
-* Wesley
+| N | Pos. | Nome |
+| :---: | :---: | :--- |
+| 12 | GK | Wainer |
+| 1 | GK | Ochoa |
+| 5 | Linha | Rafa Marques |
+| 3 | Linha | Matheus Gimenes |
+| 21 | Linha | Alisson |
+| 14 | Linha | Kasai |
+| 24 | Linha | Matheus Bahia |
+| 6 | Linha | Ander |
+| 10 | Linha | Renan |
+| 8 | Linha | Titos |
+| 20 | Linha | Helton |
+| - | Linha | Gui |
+| 13 | Linha | James |
+| 11 | Linha | Dalton |
+| 2 | Linha | Felipe |
+| - | Linha | Luizão |
+| 7 | Linha | Triska |
+| 19 | Linha | André Soneka |
+| - | Linha | Thomas |
+| - | Linha | Wesley |
