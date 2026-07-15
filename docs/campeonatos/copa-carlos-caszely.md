@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../index.md">LFA</a></td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../Home.md">LFA</a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
