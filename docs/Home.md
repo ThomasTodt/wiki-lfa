@@ -62,8 +62,7 @@ Paz entre nós, guerra aos senhores.
 * <img src="https://github.com/user-attachments/assets/4cf02e7c-51c6-48a7-b0fd-d8570c4b44f4" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Paulo Freire](./times/paulo-freire.md)
 * <img src="https://github.com/user-attachments/assets/21cabb52-8fb8-45cc-bfad-b7e78c224573" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Primavera](./times/Primavera.md)
 * <img src="https://github.com/user-attachments/assets/96975c32-0407-4e86-b10e-6ed19793a275" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Sankara](./times/sankara.md)
-* <img src="./images/coletivo.jpg" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> 
-[Sem Fronteiras](./times/sem-fronteiras.md)
+* <img src="./images/coletivo.jpg" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Sem Fronteiras](./times/sem-fronteiras.md)
 * <img src="https://github.com/user-attachments/assets/db16458c-7d04-44ba-9ea5-b4196c25f518" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Toque de Classe](./times/toque-de-classe.md)
 * <img src="https://github.com/user-attachments/assets/e2ce251a-85a3-4f74-8faf-5f5f77df7313" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Umbabarauma](./times/umbabarauma.md)
 
