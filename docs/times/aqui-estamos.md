@@ -33,3 +33,6 @@ Time de futebol foi fundado no dia 20 de julho de 2023 por Rodrigo Santos vulgo 
 ### Campanhas de Destaque
 * **Vice-campeão**:
   * [Recopa](../campeonatos/recopa.md): 1 ([2025-C](../temporadas/2025/clausura.md))
+  * Torneio das Grifes: 1 (2025)
+* **Terceiro lugar**:
+  * Torneio das Grifes: 1 (2026)
