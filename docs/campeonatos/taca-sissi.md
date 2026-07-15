@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa; width: 35%;">Organizador</td>
-      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../Home.md">LFA</a></td>
+      <td style="padding: 8px; border: 1px solid #d8dee4; background-color: #ffffff;"><a href="../index.md">LFA</a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #d8dee4; font-weight: bold; background-color: #f6f8fa;">Tipo</td>
@@ -43,7 +43,7 @@
   </tbody>
 </table>
 
-A **Taça Sissi** era o torneio feminino da [LFA](../Home.md).
+A **Taça Sissi** era o torneio feminino da [LFA](../index.md).
 
 O nome homenageia Sisleine do Amor Lima, conhecida como Sissi. Natural de Esplanada (BA), Sissi foi uma das precursoras do futebol feminino, que permaneceu proibido no Brasil até 1979. A jogadora ganhou destaque e chegou à seleção brasileira em 1999, quando conquistou a terceira posição. Sissi, então, cumpriu sua promessa de raspar a cabeça em caso de uma boa colocação.
 
