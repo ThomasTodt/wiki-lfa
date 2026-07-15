@@ -48,7 +48,7 @@ Paz entre nós, guerra aos senhores.
 * <img src="https://github.com/user-attachments/assets/498964ac-815b-460b-80bd-066e7f2c8761" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [9-Dedos](./times/9-dedos.md)
 * <img src="https://github.com/user-attachments/assets/b3e8aa6c-44d4-4c76-acde-40adee021aa1" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [América de Calo](./times/america-de-calo.md)
 * <img src="https://github.com/user-attachments/assets/3b6e456e-6212-4fcb-8c79-869c2f92a404" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Aqui Estamos](./times/aqui-estamos.md)
-* [Atleticomuna](./times/atleticomuna.md)
+* <img src="./images/atleticomuna.jpg" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Atleticomuna](./times/atleticomuna.md)
 * <img src="https://github.com/user-attachments/assets/1b621497-b322-43d0-8fe2-fb9d47ae8958" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Azulão](./times/azulão.md)
 * <img src="https://github.com/user-attachments/assets/199db5a5-ca29-44fc-84bb-8dfd70c040ef" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Brigada Lupicínia](./times/brigada-lupicinia.md)
 * <img src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Deportivo Oriental](./times/deportivo-oriental.md)
