@@ -41,8 +41,6 @@ O partido carrega em suas cores - o Grená e o Preto - os valores em defesa da j
   * [Copa Eric Cantona](../campeonatos/copa-eric-cantona.md): 1 ([2023-C](../temporadas/2023/clausura.md))
   * [Taça Wladimir Rodrigues](../campeonatos/taca-wladimir-rodrigues.md): 1 ([2026-A](../temporadas/2026/apertura.md))
 
-## Elenco Atual 
-
 ## Elenco Atual
 
 |  N  | Pos. | Nome             |
