@@ -53,7 +53,7 @@ Paz entre nós, guerra aos senhores.
 * <img src="https://github.com/user-attachments/assets/199db5a5-ca29-44fc-84bb-8dfd70c040ef" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Brigada Lupicínia](./times/brigada-lupicinia.md)
 * <img src="https://github.com/user-attachments/assets/cf9423ff-d148-4d19-bdd5-3b3ef214103b" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Deportivo Oriental](./times/deportivo-oriental.md)
 * <img src="https://github.com/user-attachments/assets/398082c0-0805-414e-bf02-b1ad901e7a0d" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Diamante](./times/diamante.md)
-* [Discaída](./times/discaida.md)
+* <img src="./images/discaida.png" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Discaída](./times/discaida.md)
 * <img src="./images/estrela.JPG" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Estrela Vermelha](./times/Estrela-Vermelha.md)
 * <img src="https://github.com/user-attachments/assets/41dd552d-d620-4f60-80da-ae04a67e7143" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Imperial](./times/imperial.md)
 * [Latinofuturista](./times/latinofuturista.md)
