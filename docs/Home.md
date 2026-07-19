@@ -56,7 +56,7 @@ Paz entre nós, guerra aos senhores.
 * <img src="./images/discaida.png" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Discaída](./times/discaida.md)
 * <img src="./images/estrela.JPG" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Estrela Vermelha](./times/Estrela-Vermelha.md)
 * <img src="https://github.com/user-attachments/assets/41dd552d-d620-4f60-80da-ae04a67e7143" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Imperial](./times/imperial.md)
-* [Latinofuturista](./times/latinofuturista.md)
+* <img src="./images/latinofuturista.png" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Latinofuturista](./times/latinofuturista.md)
 * <img src="https://github.com/user-attachments/assets/a9cc5725-5bf6-40de-bac0-a7718b9e8097" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Liverpanças](./times/liverpancas.md)
 * <img src="https://github.com/user-attachments/assets/af33c26a-18a8-498a-bb59-a6015818a97a" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Locomotiva Makhnovista](./times/locomotiva-makhnovista.md)
 * <img src="https://github.com/user-attachments/assets/4cf02e7c-51c6-48a7-b0fd-d8570c4b44f4" width="20" style="vertical-align: middle; margin-right: 5px; display: inline-block;" /> [Paulo Freire](./times/paulo-freire.md)
